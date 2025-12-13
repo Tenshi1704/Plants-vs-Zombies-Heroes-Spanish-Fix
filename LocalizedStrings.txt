@@ -34,7 +34,7 @@
 ,
 ,
 ,
-00f8f7f7-47ed-435e-91cf-1bccf134d528_longDesc,<b>Al entrar en juego:</b> las Plantas sin Fuerza obtienen [+2a].
+00f8f7f7-47ed-435e-91cf-1bccf134d528_longDesc,Al entrar en juego: Las Plantas sin Fuerza obtienen [+2a].
 ,
 ,
 ,
@@ -42,7 +42,7 @@
 ,
 ,
 ,
-00f8f7f7-47ed-435e-91cf-1bccf134d528_shortDesc,Al entrar en juego: las Plantas sin Fuerza obtienen [+2a].
+00f8f7f7-47ed-435e-91cf-1bccf134d528_shortDesc,Al entrar en juego: Las Plantas sin Fuerza obtienen [+2a].
 ,
 ,
 ,
@@ -54,7 +54,7 @@
 ,
 ,
 ,
-0237d618-c027-4d95-af14-dca7beced0d2_longDesc,"Crea una Octomascota 3/2 con Anfibio, Frenesí."
+0237d618-c027-4d95-af14-dca7beced0d2_longDesc,Crea una Octomascota [3a]/[2h] con [aquatic], [frenzy].
 ,
 ,
 ,
@@ -62,11 +62,11 @@
 ,
 ,
 ,
-0237d618-c027-4d95-af14-dca7beced0d2_shortDesc,"Crea una Octomascota 3/2 con Anfibio, Frenesí."
+0237d618-c027-4d95-af14-dca7beced0d2_shortDesc,Crea una Octomascota [3a]/[2h] con [aquatic], [frenzy].
 ,
 ,
 ,
-025093e5-62a5-4085-a854-569fab0e4839_flavorText,Le gustan: la fontanería y los deportes de aventuras. No le gustan: los cinturones.
+025093e5-62a5-4085-a854-569fab0e4839_flavorText,Le gustan: La fontanería y los deportes de aventuras. No le gustan: Los cinturones.
 ,
 ,
 ,
@@ -82,7 +82,7 @@
 ,
 ,
 ,
-028be0b0-bf87-417a-8346-3e5bdcf247f9_flavorText,"¡Si te metes con una rosa, te llevarás las espinas!"
+028be0b0-bf87-417a-8346-3e5bdcf247f9_flavorText,¡Si te metes con una rosa, te llevarás las espinas!
 ,
 ,
 ,
@@ -94,7 +94,7 @@
 ,
 ,
 ,
-028be0b0-bf87-417a-8346-3e5bdcf247f9_shortDesc,"Cuando un Zombi inflige daño a una Flor, destruye ese Zombi."
+028be0b0-bf87-417a-8346-3e5bdcf247f9_shortDesc,Cuando un Zombi inflige daño a una Flor, destruye ese Zombi.
 ,
 ,
 ,
@@ -114,7 +114,7 @@
 ,
 ,
 ,
-03887b4d-9cd9-4f11-86ea-91954f789230_flavorText,"Sí, ella y Apisonaflor son amigas. Pero siempre compiten un poco entre ellas."
+03887b4d-9cd9-4f11-86ea-91954f789230_flavorText,Sí, ella y Apisonaflor son amigas. Pero siempre compiten un poco entre ellas.
 ,
 ,
 ,
@@ -134,7 +134,7 @@
 ,
 ,
 ,
-045dd030-f276-4f53-92e0-ca1363474b60_longDesc,<b>Al jugarse en Alturas</b> obtiene [+2a]/[+2h].
+045dd030-f276-4f53-92e0-ca1363474b60_longDesc,Al jugarse en Alturas: Obtiene [+2a]/[+2h].
 ,
 ,
 ,
@@ -150,7 +150,7 @@
 ,
 ,
 ,
-057cfef7-26b0-4701-84e5-5c8e0707d3b3_longDesc,<b>Al entrar en juego:</b>\notra Planta obtiene [+2a]/[+2h].
+057cfef7-26b0-4701-84e5-5c8e0707d3b3_longDesc,Al entrar en juego: Otra Planta obtiene [+2a]/[+2h].
 ,
 ,
 ,
@@ -198,7 +198,7 @@
 ,
 ,
 ,
-06e07806-2706-47ce-82b2-4bd2915a9b62_longDesc,"[gravestone]\n<b>Al revelarse</b>, un Zombi realiza un Ataque extra."
+06e07806-2706-47ce-82b2-4bd2915a9b62_longDesc,"[gravestone]\nAl revelarse: Un Zombi realiza un Ataque extra."
 ,
 ,
 ,
@@ -218,7 +218,7 @@
 ,
 ,
 ,
-075d072c-ff4b-4d25-b587-089a7771cc66_longDesc,<b>Al entrar en juego:</b> todos los Zombis obtienen [+1a]/[+1h] y [frenzy].
+075d072c-ff4b-4d25-b587-089a7771cc66_longDesc,Al entrar en juego: Todos los Zombis obtienen [+1a]/[+1h] y [frenzy].
 ,
 ,
 ,
@@ -238,7 +238,7 @@
 ,
 ,
 ,
-08010cd1-9506-4bdb-91b7-848f56136979_longDesc,<b>Al entrar en juego:</b> crea un Bailarín suplente [1a]/[1h].
+08010cd1-9506-4bdb-91b7-848f56136979_longDesc,Al entrar en juego: Crea un Bailarín suplente [1a]/[1h].
 ,
 ,
 ,
@@ -254,7 +254,7 @@
 ,
 ,
 ,
-08e238e9-165b-454b-a941-4d0b0548b2b4_flavorText,"""Si tuviera un martillo... Un momento... ¡YO SOY un martillo!""."
+08e238e9-165b-454b-a941-4d0b0548b2b4_flavorText,Si tuviera un martillo... Un momento... ¡YO SOY un martillo!.
 ,
 ,
 ,
@@ -270,11 +270,11 @@
 ,
 ,
 ,
-0935041d-0d31-490e-aa94-6db3d8310c02_flavorText,"Si lo que quieres son piedras escarpadas y plantas marchitas, es el paisajista adecuado."
+0935041d-0d31-490e-aa94-6db3d8310c02_flavorText,Si lo que quieres son piedras escarpadas y plantas marchitas, es el paisajista adecuado.
 ,
 ,
 ,
-0935041d-0d31-490e-aa94-6db3d8310c02_longDesc,"[gravestone]\n<b>Al revelarse</b>, una Planta obtiene [-2a]."
+0935041d-0d31-490e-aa94-6db3d8310c02_longDesc,[gravestone]\nAl revelarse: Una Planta obtiene [-2a].
 ,
 ,
 ,
@@ -282,7 +282,7 @@
 ,
 ,
 ,
-0935041d-0d31-490e-aa94-6db3d8310c02_shortDesc,"[gravestone]. Al revelarse, una Planta obtiene [-2a]."
+0935041d-0d31-490e-aa94-6db3d8310c02_shortDesc,[gravestone]. Al revelarse, una Planta obtiene [-2a].
 ,
 ,
 ,
@@ -290,7 +290,7 @@
 ,
 ,
 ,
-093b45c2-b603-4619-b669-15933b7c4364_flavorText,"""¡Sándwiches de nudillos para todos mis enemigos!""."
+093b45c2-b603-4619-b669-15933b7c4364_flavorText,¡Sándwiches de nudillos para todos mis enemigos!.
 ,
 ,
 ,
@@ -366,7 +366,7 @@
 ,
 ,
 ,
-0c3c04ed-b875-4c01-9ee8-ab5257791711_flavorText,"Lo suficientemente fuerte como para destruir una planta, pero con un pH equilibrado para los zombis."
+0c3c04ed-b875-4c01-9ee8-ab5257791711_flavorText,Lo suficientemente fuerte como para destruir una planta, pero con un pH equilibrado para los zombis.
 ,
 ,
 ,
@@ -398,7 +398,7 @@
 ,
 ,
 ,
-0ceb92dd-2a98-47ec-be7e-59174caf3d2b_longDesc,"Cuando pones en juego una Mascota, todas las Mascotas obtienen [+1a]."
+0ceb92dd-2a98-47ec-be7e-59174caf3d2b_longDesc,Cuando pones en juego una Mascota, todas las Mascotas obtienen [+1a].
 ,
 ,
 ,
@@ -406,7 +406,7 @@
 ,
 ,
 ,
-0ceb92dd-2a98-47ec-be7e-59174caf3d2b_shortDesc,"Cuando pones en juego una Mascota, todas las Mascotas obtienen [+1a]."
+0ceb92dd-2a98-47ec-be7e-59174caf3d2b_shortDesc,Cuando pones en juego una Mascota, todas las Mascotas obtienen [+1a].
 ,
 ,
 ,
@@ -430,7 +430,7 @@
 ,
 ,
 ,
-0e3d2b25-8482-4a60-a28c-9e0ed007fb6b_longDesc,"Cuando un Zombi o una lápida estén congelados, destrúyelos."
+0e3d2b25-8482-4a60-a28c-9e0ed007fb6b_longDesc,"Cuando un Zombi o una lápida estén [freeze], destrúyelos."
 ,
 ,
 ,
@@ -438,7 +438,7 @@
 ,
 ,
 ,
-0e3d2b25-8482-4a60-a28c-9e0ed007fb6b_shortDesc,"Cuando un Zombi o una lápida estén congelados, destrúyelos."
+0e3d2b25-8482-4a60-a28c-9e0ed007fb6b_shortDesc,"Cuando un Zombi o una lápida estén [freeze], destrúyelos."
 ,
 ,
 ,
@@ -446,7 +446,7 @@
 ,
 ,
 ,
-1000-Year Cheesemonger_longDesc,<b>[zombieevolution]:</b> destruye una Planta.
+1000-Year Cheesemonger_longDesc,[zombieevolution]: Destruye una Planta.
 ,
 ,
 ,
@@ -454,7 +454,7 @@
 ,
 ,
 ,
-1000-Year Cheesemonger_shortDesc,[zombieevolution]: destruye una Planta.
+1000-Year Cheesemonger_shortDesc,[zombieevolution]: Destruye una Planta.
 ,
 ,
 ,
@@ -486,7 +486,7 @@
 ,
 ,
 ,
-11f0ce43-f8ad-4c07-a036-08fb595df793_name,Bailarín sustituto+
+11f0ce43-f8ad-4c07-a036-08fb595df793_name,Bailarín sustituto
 ,
 ,
 ,
@@ -498,7 +498,7 @@
 ,
 ,
 ,
-13460c21-ad49-4b22-95f5-d1c95086c660_longDesc,"Blindaje 1, Frenesí, Intrucable."
+13460c21-ad49-4b22-95f5-d1c95086c660_longDesc,[armored=1], [frenzy], [untrickable].
 ,
 ,
 ,
@@ -506,7 +506,7 @@
 ,
 ,
 ,
-13460c21-ad49-4b22-95f5-d1c95086c660_shortDesc,"Blindaje 1, Frenesí, Intrucable."
+13460c21-ad49-4b22-95f5-d1c95086c660_shortDesc,[armored=1], [frenzy], [untrickable].
 ,
 ,
 ,
@@ -514,7 +514,7 @@
 ,
 ,
 ,
-13bbd37a-8555-4a16-9ba6-929f77f037b8_longDesc,Mueve una Planta. Conjura un Truco.
+13bbd37a-8555-4a16-9ba6-929f77f037b8_longDesc,Mueve una Planta. [conjure] un Truco.
 ,
 ,
 ,
@@ -522,7 +522,7 @@
 ,
 ,
 ,
-13bbd37a-8555-4a16-9ba6-929f77f037b8_shortDesc,Mueve una Planta. Conjura un Truco.
+13bbd37a-8555-4a16-9ba6-929f77f037b8_shortDesc,Mueve una Planta. [conjure] un Truco.
 ,
 ,
 ,
@@ -538,7 +538,7 @@
 ,
 ,
 ,
-13d7b729-74ad-4606-95de-f8b2e68011f1_longDesc,Todos los Zombisteins tienen Diana. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta 1 más.
+13d7b729-74ad-4606-95de-f8b2e68011f1_longDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta [1b] más.
 ,
 ,
 ,
@@ -546,7 +546,7 @@
 ,
 ,
 ,
-13d7b729-74ad-4606-95de-f8b2e68011f1_shortDesc,Todos los Zombisteins tienen Diana. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta 1 más.
+13d7b729-74ad-4606-95de-f8b2e68011f1_shortDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta [1b] más.
 ,
 ,
 ,
@@ -586,11 +586,11 @@
 ,
 ,
 ,
-195a7fc7-718f-413a-9109-a5825600db7a_flavorText,Hecho poco conocido: solía tener dos dientes.
+195a7fc7-718f-413a-9109-a5825600db7a_flavorText,Hecho poco conocido: Solía tener dos dientes.
 ,
 ,
 ,
-195a7fc7-718f-413a-9109-a5825600db7a_longDesc,[teamup]\n <b>Al entrar en juego:</b> obtiene [+1a] este turno.
+195a7fc7-718f-413a-9109-a5825600db7a_longDesc,[teamup]\nAl entrar en juego: Obtiene [+1a] este turno.
 ,
 ,
 ,
@@ -602,7 +602,7 @@
 ,
 ,
 ,
-19bfc239-582d-4cb8-8393-ec5f2000049a_longDesc,<b>Al entrar en juego:</b> obtén 3 Cerebros este turno.
+19bfc239-582d-4cb8-8393-ec5f2000049a_longDesc,Al entrar en juego: Obtén 3 Cerebros este turno.
 ,
 ,
 ,
@@ -43051,3 +43051,4 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
