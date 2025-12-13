@@ -1054,7 +1054,7 @@
 ,
 ,
 ,
-2aa11f52-3fac-4ec5-8719-8adde30ad7f5_shortDesc,"[splashdamage=4].\nAl entrar en juego: [frezee] un Zombi. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
+2aa11f52-3fac-4ec5-8719-8adde30ad7f5_shortDesc,"[splashdamage=4].\nAl entrar en juego: [freeze] un Zombi. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
 ,
 ,
 ,
@@ -1150,7 +1150,7 @@
 ,
 ,
 ,
-2f9fa005-8b50-4d1a-89be-38e4a82036c4_flavorText,Técnicamente soy una comida, no una planta."
+2f9fa005-8b50-4d1a-89be-38e4a82036c4_flavorText,"Técnicamente soy una comida, no una planta."
 ,
 ,
 ,
@@ -1246,7 +1246,7 @@
 ,
 ,
 ,
-317bf3e1-1686-4923-81a9-9d07934a0ae6_longDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy].\nAl destruirse: Hace [bounce] a Octozombi."
+317bf3e1-1686-4923-81a9-9d07934a0ae6_longDesc,"[aquatic], [frenzy].\nAl entrar en juego: Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy].\nAl destruirse: Hace [bounce] a Octozombi."
 ,
 ,
 ,
@@ -1350,7 +1350,7 @@
 ,
 ,
 ,
-353d7ec7-66b8-49b3-abd0-25c990b85948_longDesc,"[aquatic], [teamup]\n<b>Al entrar en juego:</b> todas las Plantas Anfibias obtienen [+1a]/[+1h]."
+353d7ec7-66b8-49b3-abd0-25c990b85948_longDesc,"[aquatic], [teamup]\nAl entrar en juego: Todas las Plantas Anfibias obtienen [+1a]/[+1h]."
 ,
 ,
 ,
@@ -1370,7 +1370,7 @@
 ,
 ,
 ,
-3543764d-7f3b-4d90-aefb-1f32f22fd477_longDesc,<b>Al entrar en juego:</b> crea una Planta aleatoria en cada una de las demás líneas.
+3543764d-7f3b-4d90-aefb-1f32f22fd477_longDesc,Al entrar en juego: Crea una Planta aleatoria en cada una de las demás líneas.
 ,
 ,
 ,
@@ -1406,7 +1406,7 @@
 ,
 ,
 ,
-35837e1b-5c9b-4cde-ad59-c0a0a1c077e4_longDesc,[gravestone]\n[strikethrough]\n<b>Al revelarse</b> mueve este Zombi.
+35837e1b-5c9b-4cde-ad59-c0a0a1c077e4_longDesc,[gravestone]\n[strikethrough]\nAl revelarse: Mueve este Zombi.
 ,
 ,
 ,
@@ -1426,7 +1426,7 @@
 ,
 ,
 ,
-37e7c15b-f476-4167-8dba-38acb11e8f82_longDesc,<b>Al entrar en juego:</b> inflige 1 de daño a todas las Plantas y Zombis.
+37e7c15b-f476-4167-8dba-38acb11e8f82_longDesc,Al entrar en juego: Inflige 1 de daño a todas las Plantas y Zombis.
 ,
 ,
 ,
@@ -1438,11 +1438,11 @@
 ,
 ,
 ,
-38fa5de6-cde9-4de7-9c46-7882bf25182b_flavorText,"""¡Soy almidonada y explosiva!""."
+38fa5de6-cde9-4de7-9c46-7882bf25182b_flavorText,"¡Soy almidonada y explosiva!."
 ,
 ,
 ,
-38fa5de6-cde9-4de7-9c46-7882bf25182b_longDesc,[teamup]\n<b>Al ser destruida:</b> inflige 2 de daño a un Zombi en su línea.
+38fa5de6-cde9-4de7-9c46-7882bf25182b_longDesc,[teamup]\nAl ser destruida: Inflige 2 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -1450,7 +1450,7 @@
 ,
 ,
 ,
-38fa5de6-cde9-4de7-9c46-7882bf25182b_shortDesc,[teamup]. Al ser destruida: inflige 2 de daño a un Zombi en su línea.
+38fa5de6-cde9-4de7-9c46-7882bf25182b_shortDesc,[teamup]. Al ser destruida: Inflige 2 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -1486,7 +1486,7 @@
 ,
 ,
 ,
-3d2607ff-8b12-4bc4-b4fc-bf46832982b2_longDesc,<b>Al entrar en juego:</b>\ncrea una Pera Compañera [2a]/[2h] con [teamup] en su línea.
+3d2607ff-8b12-4bc4-b4fc-bf46832982b2_longDesc,Al entrar en juego:Crea una Pera Compañera [2a]/[2h] con [teamup] en su línea.
 ,
 ,
 ,
@@ -1502,7 +1502,7 @@
 ,
 ,
 ,
-3e290224-8f40-4cd9-8c02-49eb16c574ab_longDesc,"Una Planta obtiene -1/-1. Si esto destruye esa Planta, Conjura una carta Gourmet."
+3e290224-8f40-4cd9-8c02-49eb16c574ab_longDesc,"Una Planta obtiene [-1a]/[-1h]. Si esto destruye esa Planta, [conjure] una carta Gourmet."
 ,
 ,
 ,
@@ -1510,11 +1510,11 @@
 ,
 ,
 ,
-3e290224-8f40-4cd9-8c02-49eb16c574ab_shortDesc,"Una Planta obtiene -1/-1. Si esto destruye esa Planta, Conjura una carta Gourmet."
+3e290224-8f40-4cd9-8c02-49eb16c574ab_shortDesc,"Una Planta obtiene [-1a]/[-1h]. Si esto destruye esa Planta, [conjure] una carta Gourmet."
 ,
 ,
 ,
-3e914688-db71-4c0c-968d-a759f7c91305_longDesc,<b>Al entrar en juego:</b>\ndestruye una Planta.
+3e914688-db71-4c0c-968d-a759f7c91305_longDesc,Al entrar en juego: Destruye una Planta.
 ,
 ,
 ,
@@ -1546,7 +1546,7 @@
 ,
 ,
 ,
-3f69e6ab-fc48-46a6-bc29-a66324bcd4e3_longDesc,<b>Al entrar en juego:</b> tu indicador de Bloqueo aumenta una Doble carga.
+3f69e6ab-fc48-46a6-bc29-a66324bcd4e3_longDesc,Al entrar en juego: Tu indicador de Bloqueo aumenta una Doble carga.
 ,
 ,
 ,
@@ -1558,11 +1558,11 @@
 ,
 ,
 ,
-3f961cab-1ca4-4f5e-93b8-1c0383220450_flavorText,"""No es por alardear, pero soy prácticamente la superestrella sobre la que se construye un equipo""."
+3f961cab-1ca4-4f5e-93b8-1c0383220450_flavorText,"No es por alardear, pero soy prácticamente la superestrella sobre la que se construye un equipo."
 ,
 ,
 ,
-3f961cab-1ca4-4f5e-93b8-1c0383220450_longDesc,[teamup]\n<b>Al comienzo del turno:</b> obtienes [+1s] este turno.
+3f961cab-1ca4-4f5e-93b8-1c0383220450_longDesc,[teamup]\n<Al comienzo del turno: Obtienes [+1s] este turno.
 ,
 ,
 ,
@@ -1594,7 +1594,7 @@
 ,
 ,
 ,
-40132ca9-caec-42c0-b51d-c92b0c45d352_longDesc,[teamup]\n<b>Al entrar en juego:</b> mueve un Zombi a su línea.
+40132ca9-caec-42c0-b51d-c92b0c45d352_longDesc,[teamup]\nAl entrar en juego: Mueve un Zombi a su línea.
 ,
 ,
 ,
@@ -1626,11 +1626,11 @@
 ,
 ,
 ,
-4153a62b-b665-41cc-9173-1df58d5ada8b_flavorText,"""Podría destruir todo lo que amas. No sería difícil""."
+4153a62b-b665-41cc-9173-1df58d5ada8b_flavorText,Podría destruir todo lo que amas. No sería difícil.
 ,
 ,
 ,
-4153a62b-b665-41cc-9173-1df58d5ada8b_longDesc,Destruye todas las Plantas y Zombis con [4a] o más. \n Roba una carta de Seta.
+4153a62b-b665-41cc-9173-1df58d5ada8b_longDesc,Destruye todas las Plantas y Zombis con [4a] o más.\n [conjure] una seta de coste [4s] o menos.
 ,
 ,
 ,
@@ -1638,7 +1638,7 @@
 ,
 ,
 ,
-4153a62b-b665-41cc-9173-1df58d5ada8b_shortDesc,Destruye todas las Plantas y Zombis con [4a] o más. Roba una carta de Seta.
+4153a62b-b665-41cc-9173-1df58d5ada8b_shortDesc,Destruye todas las Plantas y Zombis con [4a] o más.\n [conjure] una seta de coste [4s] o menos.
 ,
 ,
 ,
@@ -1646,7 +1646,7 @@
 ,
 ,
 ,
-41c22056-f0e2-4d4e-b292-88bd3b94d76f_longDesc,<b>Al entrar en juego:</b> inflige 2 de daño al Héroe planta por cada Zombi bailarín.
+41c22056-f0e2-4d4e-b292-88bd3b94d76f_longDesc,Al entrar en juego: Inflige 2 de daño al Héroe planta por cada Zombi bailarín.
 ,
 ,
 ,
@@ -1674,11 +1674,11 @@
 ,
 ,
 ,
-42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_flavorText,"""Si me haces daño, yo te hago daño. Así funciona esto""."
+42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_flavorText,"Si me haces daño, yo te hago daño. Así funciona esto."
 ,
 ,
 ,
-42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_longDesc,Equipo. Al sufrir daño: inflige 2 de daño al Héroe zombi.
+42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_longDesc,Equipo. Al sufrir daño: Inflige 2 de daño al Héroe zombi.
 ,
 ,
 ,
@@ -1686,11 +1686,11 @@
 ,
 ,
 ,
-42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_shortDesc,Equipo. Al sufrir daño: inflige 2 de daño al Héroe zombi.
+42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_shortDesc,Equipo. Al sufrir daño: Inflige 2 de daño al Héroe zombi.
 ,
 ,
 ,
-4365550a-8305-4982-a28a-51717cd38753_flavorText,"""¿Adivina quién tiene ganas de pelea? ¡Esta tipa de aquí!""."
+4365550a-8305-4982-a28a-51717cd38753_flavorText,¿Adivina quién tiene ganas de pelea? ¡Esta tipa de aquí!.
 ,
 ,
 ,
@@ -1710,7 +1710,7 @@
 ,
 ,
 ,
-43cec3db-8b28-4e3d-8666-863a3d7bde2d_longDesc,<b>Al entrar en juego:</b>\ninflige 1 de daño a cada Zombi.
+43cec3db-8b28-4e3d-8666-863a3d7bde2d_longDesc,Al entrar en juego: Inflige 1 de daño a cada Zombi.
 ,
 ,
 ,
@@ -1738,11 +1738,11 @@
 ,
 ,
 ,
-4444f545-7ee5-45e3-8e14-4114e108046b_flavorText,"""Es hora de que el pétalo tenga el poder del metal. ¡Sí!""."
+4444f545-7ee5-45e3-8e14-4114e108046b_flavorText,"Es hora de que el pétalo tenga el poder del metal. ¡Sí!."
 ,
 ,
 ,
-4444f545-7ee5-45e3-8e14-4114e108046b_longDesc,<b>Al comienzo del turno:</b> obtienes [+1s] este turno.
+4444f545-7ee5-45e3-8e14-4114e108046b_longDesc,Al comienzo del turno: Obtienes [+1s] este turno.
 ,
 ,
 ,
@@ -1762,7 +1762,7 @@
 ,
 ,
 ,
-445c8ac1-07dd-498e-9938-b30f42cec128_longDesc,Crea un Bailarín suplente 1/1 en una línea de tu elección. Luego aparece otro en una línea aleatoria.
+445c8ac1-07dd-498e-9938-b30f42cec128_longDesc,Crea un Bailarín suplente [1a]/[1h] en una línea de tu elección. Luego aparece otro en una línea aleatoria.
 ,
 ,
 ,
@@ -1770,7 +1770,7 @@
 ,
 ,
 ,
-445c8ac1-07dd-498e-9938-b30f42cec128_shortDesc,Crea un Bailarín suplente 1/1 en una línea de tu elección. Luego aparece otro en una línea aleatoria.
+445c8ac1-07dd-498e-9938-b30f42cec128_shortDesc,Crea un Bailarín suplente [1a]/[1h] en una línea de tu elección. Luego aparece otro en una línea aleatoria.
 ,
 ,
 ,
@@ -1778,7 +1778,7 @@
 ,
 ,
 ,
-47eb7229-0e75-4f28-b176-e03c63cd617e_longDesc,[strikethrough]\n<b>Al comienzo del turno: </b>cura a tu Héroe 1 por cada Flor.
+47eb7229-0e75-4f28-b176-e03c63cd617e_longDesc,[strikethrough]\nAl comienzo del turno: Cura a tu Héroe 1 por cada Flor.
 ,
 ,
 ,
@@ -1790,11 +1790,11 @@
 ,
 ,
 ,
-48097dc6-7a51-42ad-8381-38ccbf7e90dc_flavorText,"""¡Es cuestión de física! ¡Emito todo TIPO de radiación coherente!""."
+48097dc6-7a51-42ad-8381-38ccbf7e90dc_flavorText,¡Es cuestión de física! ¡Emito todo TIPO de radiación coherente!.
 ,
 ,
 ,
-48097dc6-7a51-42ad-8381-38ccbf7e90dc_longDesc,Impacto. Al entrar en juego: obtiene +1 de Ataque por cada Sol que creaste este turno.
+48097dc6-7a51-42ad-8381-38ccbf7e90dc_longDesc,[strikethrough].\nAl entrar en juego: obtiene [+1a] de Ataque por cada Sol que creaste este turno.
 ,
 ,
 ,
@@ -1802,7 +1802,7 @@
 ,
 ,
 ,
-48097dc6-7a51-42ad-8381-38ccbf7e90dc_shortDesc,Impacto. Al entrar en juego: obtiene +1 de Ataque por cada Sol que creaste este turno.
+48097dc6-7a51-42ad-8381-38ccbf7e90dc_shortDesc,[strikethrough].\nAl entrar en juego: obtiene [+1a] de Ataque por cada Sol que creaste este turno.
 ,
 ,
 ,
@@ -1814,7 +1814,7 @@
 ,
 ,
 ,
-48435dcd-67eb-4da6-8ab5-92cafb76b3f7_longDesc,<b>Al entrar en juego:</b> crea [linklilbuddies] en su línea y en las de al lado.
+48435dcd-67eb-4da6-8ab5-92cafb76b3f7_longDesc,Al entrar en juego: Crea [linklilbuddies] en su línea y en las de al lado.
 ,
 ,
 ,
@@ -1830,7 +1830,7 @@
 ,
 ,
 ,
-48c71740-6296-4649-b9ff-71bbb9fe9a71_longDesc,<b>Mientras esté en tu mano:</b> obtiene [+2a] cuando un Zombi sea destruido.
+48c71740-6296-4649-b9ff-71bbb9fe9a71_longDesc,Mientras esté en tu mano: Obtiene [+2a] cuando un Zombi sea destruido.
 ,
 ,
 ,
@@ -1838,7 +1838,7 @@
 ,
 ,
 ,
-48c71740-6296-4649-b9ff-71bbb9fe9a71_shortDesc,Mientras esté en tu mano: obtiene [+2a] cuando un Zombi sea destruido.
+48c71740-6296-4649-b9ff-71bbb9fe9a71_shortDesc,Mientras esté en tu mano: Obtiene [+2a] cuando un Zombi sea destruido.
 ,
 ,
 ,
@@ -1846,7 +1846,7 @@
 ,
 ,
 ,
-48e5e486-e3e9-4d79-8f7d-60f754bd1a29_longDesc,<b>Al entrar en juego:</b> los Zombis Deportistas no pueden sufrir daño este turno.
+48e5e486-e3e9-4d79-8f7d-60f754bd1a29_longDesc, Al entrar en juego: Los Zombis Deportistas no pueden sufrir daño este turno.
 ,
 ,
 ,
@@ -1874,18 +1874,6 @@
 ,
 ,
 ,
-4a5659ee-3f30-45bd-a775-ff3acccb49cc_longDesc,"[gravestone]\nJuégalo boca abajo. En el comienzo de los Trucos, revélalo."
-,
-,
-,
-4a5659ee-3f30-45bd-a775-ff3acccb49cc_name,Descerebrado
-,
-,
-,
-4a5659ee-3f30-45bd-a775-ff3acccb49cc_shortDesc,[gravestone]
-,
-,
-,
 4b0455b2-9e87-4bd5-aa44-c97eeb5b67d5_flavorText,"""Lo siento, es que... No tengo nada interesante que decir""."
 ,
 ,
@@ -1902,11 +1890,11 @@
 ,
 ,
 ,
-4b41ff4a-c917-4286-b746-009827183014_flavorText,"""Solo somos mellizos""."
+4b41ff4a-c917-4286-b746-009827183014_flavorText,Solo somos mellizos.
 ,
 ,
 ,
-4b41ff4a-c917-4286-b746-009827183014_longDesc,[teamup]\n<b>Al comienzo del turno:</b> obtienes [+2s] este turno.
+4b41ff4a-c917-4286-b746-009827183014_longDesc,[teamup]\nAl comienzo del turno: Obtienes [+2s] este turno.
 ,
 ,
 ,
@@ -1918,7 +1906,7 @@
 ,
 ,
 ,
-4bc41e8e-0ca2-4366-9373-5a97efd60fdc_flavorText,"""La hoja de césped más grande es la primera que se corta. ¡Cereeebroz!"" - Antiguo proverbio zombi"
+4bc41e8e-0ca2-4366-9373-5a97efd60fdc_flavorText,La hoja de césped más grande es la primera que se corta. ¡Cereeebroz! - Antiguo proverbio zombi
 ,
 ,
 ,
@@ -1934,23 +1922,11 @@
 ,
 ,
 ,
-4c678bdb-18ad-450f-a4b7-8373c6af9c8b_longDesc,<b>Al ser destruida:</b> inflige 3 de daño al Héroe planta.
-,
-,
-,
-4c678bdb-18ad-450f-a4b7-8373c6af9c8b_name,Bailarín final
-,
-,
-,
-4c678bdb-18ad-450f-a4b7-8373c6af9c8b_shortDesc,Al ser destruida: inflige 3 de daño al Héroe planta.
-,
-,
-,
 4d2d3072-1641-49ee-8fb4-e22df0382377_flavorText,No toques a la Bayosita.
 ,
 ,
 ,
-4d2d3072-1641-49ee-8fb4-e22df0382377_longDesc,<b>Al sufrir daño:</b> obtiene [+4a].
+4d2d3072-1641-49ee-8fb4-e22df0382377_longDesc,Al sufrir daño: Obtiene [+4a].
 ,
 ,
 ,
@@ -1962,7 +1938,7 @@
 ,
 ,
 ,
-4f6ad95c-e9c3-43ea-95cf-223e47302f51_flavorText,"""¡Soy un sabor de helado! ¡O algo así!""."
+4f6ad95c-e9c3-43ea-95cf-223e47302f51_flavorText,¡Soy un sabor de helado! ¡O algo así!.
 ,
 ,
 ,
@@ -1998,7 +1974,7 @@
 ,
 ,
 ,
-51457c7b-f561-4250-9e29-a0e4bbd34cce_longDesc,"[gravestone]\n<b>Al revelarse</b>, inflige 1 de daño."
+51457c7b-f561-4250-9e29-a0e4bbd34cce_longDesc,"[gravestone]\nAl revelarse: Inflige 1 de daño."
 ,
 ,
 ,
@@ -2034,7 +2010,7 @@
 ,
 ,
 ,
-51e8baca-57d5-440b-a5d8-a4f1b20bf1e9_longDesc,Cura 4. \nRoba una carta.
+51e8baca-57d5-440b-a5d8-a4f1b20bf1e9_longDesc,Cura [4h].\nRoba una carta.
 ,
 ,
 ,
@@ -2042,7 +2018,7 @@
 ,
 ,
 ,
-51e8baca-57d5-440b-a5d8-a4f1b20bf1e9_shortDesc,Cura 4. Roba una carta.
+51e8baca-57d5-440b-a5d8-a4f1b20bf1e9_shortDesc,Cura [4h]. Roba una carta.
 ,
 ,
 ,
@@ -2066,7 +2042,7 @@
 ,
 ,
 ,
-52827e9d-5e5a-49fa-85f5-07d2dd72ae67_longDesc,<b>Al jugarse en Alturas</b> obtiene [+1a]/[+1h].
+52827e9d-5e5a-49fa-85f5-07d2dd72ae67_longDesc,Al jugarse en Alturas: Obtiene [+1a]/[+1h].
 ,
 ,
 ,
@@ -2086,7 +2062,7 @@
 ,
 ,
 ,
-535b4dc0-9478-4ddf-a80a-a94fddf22901_longDesc,Crea un Champiñón 1/1 en una línea de tu elección. Luego aparece otro en una línea aleatoria.
+535b4dc0-9478-4ddf-a80a-a94fddf22901_longDesc,Crea un Champiñón [1a]/[1h] en una línea de tu elección. Luego aparece otro en una línea aleatoria.
 ,
 ,
 ,
@@ -2094,7 +2070,7 @@
 ,
 ,
 ,
-535b4dc0-9478-4ddf-a80a-a94fddf22901_shortDesc,Crea un Champiñón 1/1 en una línea de tu elección. Luego aparece otro en una línea aleatoria.
+535b4dc0-9478-4ddf-a80a-a94fddf22901_shortDesc,Crea un Champiñón [1a]/[1h] en una línea de tu elección. Luego aparece otro en una línea aleatoria.
 ,
 ,
 ,
@@ -2114,7 +2090,7 @@
 ,
 ,
 ,
-54b0df99-c255-49da-a18e-a8c0068db7a1_flavorText,Respirar: sí. ¿Inspirar? No tanto.
+54b0df99-c255-49da-a18e-a8c0068db7a1_flavorText,Respirar: Sí. ¿Inspirar? No tanto.
 ,
 ,
 ,
@@ -43003,6 +42979,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
