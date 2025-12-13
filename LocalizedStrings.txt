@@ -842,7 +842,7 @@
 ,
 ,
 ,
-213136f7-fc61-48a5-9e81-38c6b5a91e80_longDesc,[gravestone]\n<b>Al revelarse</b> mueve este Zombi.
+213136f7-fc61-48a5-9e81-38c6b5a91e80_longDesc,[gravestone]\nAl revelarse: Mueve este Zombi.
 ,
 ,
 ,
@@ -850,7 +850,7 @@
 ,
 ,
 ,
-213136f7-fc61-48a5-9e81-38c6b5a91e80_shortDesc,[gravestone]. Al revelarse mueve este Zombi.
+213136f7-fc61-48a5-9e81-38c6b5a91e80_shortDesc,[gravestone]. Al revelarse: Mueve este Zombi.
 ,
 ,
 ,
@@ -862,7 +862,7 @@
 ,
 ,
 ,
-2191604d-1bc0-4579-824a-5d41f8ebed2d_longDesc,[doublestrike]\n<b>[dinoroar]:</b> obtiene [+1a]/[+1h].
+2191604d-1bc0-4579-824a-5d41f8ebed2d_longDesc,[doublestrike]\n[dinoroar]: Obtiene [+1a]/[+1h].
 ,
 ,
 ,
@@ -870,7 +870,7 @@
 ,
 ,
 ,
-2191604d-1bc0-4579-824a-5d41f8ebed2d_shortDesc,[doublestrike]. [dinoroar]: obtiene [+1a]/[+1h].
+2191604d-1bc0-4579-824a-5d41f8ebed2d_shortDesc,[doublestrike]. [dinoroar]: Obtiene [+1a]/[+1h].
 ,
 ,
 ,
@@ -878,7 +878,7 @@
 ,
 ,
 ,
-21bd8b9b-9fc4-47cc-8cbd-cafced2f7df5_longDesc,<b>Al entrar en juego</b> hace [bounce] otra Planta.
+21bd8b9b-9fc4-47cc-8cbd-cafced2f7df5_longDesc,Al entrar en juego: Hace [bounce] otra Planta.
 ,
 ,
 ,
@@ -910,7 +910,7 @@
 ,
 ,
 ,
-231008b3-d16a-45b0-a736-8827a74789bd_longDesc, <b>Al entrar en juego:</b> mueve un Zombi.
+231008b3-d16a-45b0-a736-8827a74789bd_longDesc,Al entrar en juego: Mueve un Zombi.
 ,
 ,
 ,
@@ -930,7 +930,7 @@
 ,
 ,
 ,
-235d9d98-deb4-4187-b78d-7cd54fd49b17_longDesc,Lápida. Al revelarse: Destruye todas las Plantas en su línea y en las de al lado.
+235d9d98-deb4-4187-b78d-7cd54fd49b17_longDesc,[gravestone].\nAl revelarse: Destruye todas las Plantas en su línea y en las de al lado.
 ,
 ,
 ,
@@ -938,7 +938,7 @@
 ,
 ,
 ,
-235d9d98-deb4-4187-b78d-7cd54fd49b17_shortDesc,Lápida. Al revelarse: Destruye todas las Plantas en su línea y en las de al lado.
+235d9d98-deb4-4187-b78d-7cd54fd49b17_shortDesc,[gravestone]. Al revelarse: Destruye todas las Plantas en su línea y en las de al lado.
 ,
 ,
 ,
@@ -946,7 +946,7 @@
 ,
 ,
 ,
-281bf161-c2a1-4e88-a992-5c7f47d37f3f_longDesc,[teamup]\n<b>Al ser destruido:</b> inflige 6 de daño a un Zombi en su línea.
+281bf161-c2a1-4e88-a992-5c7f47d37f3f_longDesc,[teamup]\nAl ser destruido: Inflige 6 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -954,7 +954,7 @@
 ,
 ,
 ,
-281bf161-c2a1-4e88-a992-5c7f47d37f3f_shortDesc,[teamup]. Al ser destruida: inflige 6 de daño a un Zombi en su línea.
+281bf161-c2a1-4e88-a992-5c7f47d37f3f_shortDesc,[teamup]. Al ser destruida: Inflige 6 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -962,7 +962,7 @@
 ,
 ,
 ,
-2890ebec-2c12-40b0-8b42-9efb7d52527a_longDesc,"Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo."
+2890ebec-2c12-40b0-8b42-9efb7d52527a_longDesc,Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo.
 ,
 ,
 ,
@@ -970,15 +970,15 @@
 ,
 ,
 ,
-2890ebec-2c12-40b0-8b42-9efb7d52527a_shortDesc,"Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo."
+2890ebec-2c12-40b0-8b42-9efb7d52527a_shortDesc,Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo.
 ,
 ,
 ,
-28d5dfae-7e2f-4f1d-9694-3e933922d56e_flavorText,"""Todo el mundo les pregunta constantemente, '¿por qué estáis tan enfadadas?', ¡pues por los ZOMBIS! Es tan obvio...""."
+28d5dfae-7e2f-4f1d-9694-3e933922d56e_flavorText,Todo el mundo les pregunta constantemente, ¿Por qué estáis tan enfadadas?, ¡pues por los ZOMBIS! Es tan obvio....
 ,
 ,
 ,
-28d5dfae-7e2f-4f1d-9694-3e933922d56e_longDesc,<b>Al ser destruido:</b> inflige 6 de daño al Héroe zombi.
+28d5dfae-7e2f-4f1d-9694-3e933922d56e_longDesc,Al ser destruido: Inflige 6 de daño al Héroe zombi.
 ,
 ,
 ,
@@ -986,7 +986,7 @@
 ,
 ,
 ,
-28d5dfae-7e2f-4f1d-9694-3e933922d56e_shortDesc,Al ser destruido: inflige 6 de daño al Héroe zombi.
+28d5dfae-7e2f-4f1d-9694-3e933922d56e_shortDesc,Al ser destruido: Inflige 6 de daño al Héroe zombi.
 ,
 ,
 ,
@@ -43027,6 +43027,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
