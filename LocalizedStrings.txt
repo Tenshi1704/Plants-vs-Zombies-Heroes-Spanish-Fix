@@ -614,7 +614,7 @@
 ,
 ,
 ,
-1a68871b-6f3e-414c-8b5b-3d93583592e1_flavorText,"""Mi número favorito es el 5""."
+1a68871b-6f3e-414c-8b5b-3d93583592e1_flavorText,Mi número favorito es el 5.
 ,
 ,
 ,
@@ -642,7 +642,7 @@
 ,
 ,
 ,
-1a92d805-d288-4d12-9a5e-ce0099a98132_longDesc,"Lápida. Al poner en juego el primer Truco en cada turno, Conjura un Truco y cuesta 1 menos."
+1a92d805-d288-4d12-9a5e-ce0099a98132_longDesc,[gravestone].\nAl poner en juego el primer Truco en cada turno, Conjura un Truco y cuesta [1b] menos.
 ,
 ,
 ,
@@ -650,7 +650,7 @@
 ,
 ,
 ,
-1a92d805-d288-4d12-9a5e-ce0099a98132_shortDesc,"Lápida. Al poner en juego el primer Truco en cada turno, Conjura un Truco y cuesta 1 menos."
+1a92d805-d288-4d12-9a5e-ce0099a98132_shortDesc,[gravestone]. Al poner en juego el primer Truco en cada turno, Conjura un Truco y cuesta [1b] menos.
 ,
 ,
 ,
@@ -43051,4 +43051,5 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
