@@ -62,7 +62,7 @@
 ,
 ,
 ,
-0237d618-c027-4d95-af14-dca7beced0d2_shortDesc,Crea una Octomascota [3a]/[2h] con [aquatic] y [y].
+0237d618-c027-4d95-af14-dca7beced0d2_shortDesc,Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy].
 ,
 ,
 ,
@@ -86,7 +86,7 @@
 ,
 ,
 ,
-028be0b0-bf87-417a-8346-3e5bdcf247f9_longDesc,"Cuando un Zombi inflige daño a una Flor, destruye ese Zombi."
+028be0b0-bf87-417a-8346-3e5bdcf247f9_longDesc,Cuando un Zombi inflige daño a una Flor, destruye ese Zombi.
 ,
 ,
 ,
@@ -334,7 +334,7 @@
 ,
 ,
 ,
-09f699a1-6cea-439a-bf77-2d428df13fab_shortDesc,"[armored=1], [truestrike]"
+09f699a1-6cea-439a-bf77-2d428df13fab_shortDesc,"[armored=1], [truestrike], [teamup]"
 ,
 ,
 ,
@@ -498,7 +498,7 @@
 ,
 ,
 ,
-13460c21-ad49-4b22-95f5-d1c95086c660_longDesc,[armored=1],[frenzy] y [untrickable].
+13460c21-ad49-4b22-95f5-d1c95086c660_longDesc,"[armored=1],[frenzy] y [untrickable]."
 ,
 ,
 ,
@@ -506,7 +506,7 @@
 ,
 ,
 ,
-13460c21-ad49-4b22-95f5-d1c95086c660_shortDesc,[armored=1], [frenzy], [untrickable].
+13460c21-ad49-4b22-95f5-d1c95086c660_shortDesc,"[armored=1], [frenzy], [untrickable]."
 ,
 ,
 ,
@@ -538,7 +538,7 @@
 ,
 ,
 ,
-13d7b729-74ad-4606-95de-f8b2e68011f1_longDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta [1b] más.
+13d7b729-74ad-4606-95de-f8b2e68011f1_longDesc,Todos los Zombisteins tienen [truestrike].\nAl entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta [1b] más.
 ,
 ,
 ,
@@ -602,18 +602,6 @@
 ,
 ,
 ,
-19bfc239-582d-4cb8-8393-ec5f2000049a_longDesc,Al entrar en juego: Obtén 3 Cerebros este turno.
-,
-,
-,
-19bfc239-582d-4cb8-8393-ec5f2000049a_name,Cerebros en un frasco
-,
-,
-,
-19bfc239-582d-4cb8-8393-ec5f2000049a_shortDesc,Obtén 3 Cerebros este turno.
-,
-,
-,
 1a68871b-6f3e-414c-8b5b-3d93583592e1_flavorText,Mi número favorito es el 5.
 ,
 ,
@@ -654,23 +642,11 @@
 ,
 ,
 ,
-1b319058-bfd0-4dd3-8330-d6e84fba6f71_longDesc,Inflige 3 de daño a una Planta o Héroe planta.
+1b84d98f-208b-4ff4-9ec6-7f409fa80c2a_flavorText,Puede que la recuerdes por sus vídeos de entrenamiento, <b>Mejoraseta esculpe tu cuerpo en 30 días</b>.
 ,
 ,
 ,
-1b319058-bfd0-4dd3-8330-d6e84fba6f71_name,Hipnotizar
-,
-,
-,
-1b319058-bfd0-4dd3-8330-d6e84fba6f71_shortDesc,Inflige 3 de daño.
-,
-,
-,
-1b84d98f-208b-4ff4-9ec6-7f409fa80c2a_flavorText,"Puede que la recuerdes por sus vídeos de entrenamiento, ""Mejoraseta esculpe tu cuerpo en 30 días""."
-,
-,
-,
-1b84d98f-208b-4ff4-9ec6-7f409fa80c2a_longDesc,<b>Al entrar en juego:</b> todas las Setas obtienen [+1a]/[+1h].
+1b84d98f-208b-4ff4-9ec6-7f409fa80c2a_longDesc,Al entrar en juego:</b> Todas las Setas obtienen [+1a]/[+1h].
 ,
 ,
 ,
@@ -698,7 +674,7 @@
 ,
 ,
 ,
-1c6baedc-ca29-4257-b15a-433078d24049_flavorText,"""Hay quien dice que no es fácil electrocutar a un zombi. No estoy de acuerdo""."
+1c6baedc-ca29-4257-b15a-433078d24049_flavorText,Hay quien dice que no es fácil electrocutar a un zombi. No estoy de acuerdo.
 ,
 ,
 ,
@@ -714,11 +690,11 @@
 ,
 ,
 ,
-1ce967f1-eb5b-44e7-9323-c965bf421ff0_flavorText,"Di lo que quieras del disfraz, los zombis nunca tuvieron la moral tan alta."
+1ce967f1-eb5b-44e7-9323-c965bf421ff0_flavorText,Di lo que quieras del disfraz, los zombis nunca tuvieron la moral tan alta.
 ,
 ,
 ,
-1ce967f1-eb5b-44e7-9323-c965bf421ff0_longDesc,<b>Al comienzo del turno:</b> todos los Zombis Deportistas obtienen [+1a]/[+1h].
+1ce967f1-eb5b-44e7-9323-c965bf421ff0_longDesc,Al comienzo del turno: Todos los Zombis Deportistas obtienen [+1a]/[+1h].
 ,
 ,
 ,
@@ -770,7 +746,7 @@
 ,
 ,
 ,
-1ec017e5-dc85-471e-9849-1f0e2a9afd1e_longDesc,[deadly]\n<b>Al ser destruido:</b> crea Zombiditos Swabbie [1a]/[1h] con [aquatic] en las líneas de al lado.
+1ec017e5-dc85-471e-9849-1f0e2a9afd1e_longDesc,[deadly]\nAl ser destruido: Crea Zombiditos Swabbie [1a]/[1h] con [aquatic] en las líneas de al lado.
 ,
 ,
 ,
@@ -786,7 +762,7 @@
 ,
 ,
 ,
-1f60d02d-bd76-4f25-8c54-1d66808bd28a_longDesc,"Lápida. Cuando un Zombidito inflige daño al Héroe planta, roba una carta."
+1f60d02d-bd76-4f25-8c54-1d66808bd28a_longDesc,[gravestone].\nCuando un Zombidito inflige daño al Héroe planta, roba una carta.
 ,
 ,
 ,
@@ -794,7 +770,7 @@
 ,
 ,
 ,
-1f60d02d-bd76-4f25-8c54-1d66808bd28a_shortDesc,"Lápida. Cuando un Zombidito inflige daño al Héroe planta, roba una carta."
+1f60d02d-bd76-4f25-8c54-1d66808bd28a_shortDesc,[gravestone]. Cuando un Zombidito inflige daño al Héroe planta, roba una carta.
 ,
 ,
 ,
@@ -818,7 +794,7 @@
 ,
 ,
 ,
-2067f3e7-2cbc-4db9-8475-61f11cf675ba_longDesc,<b>Al entrar en juego:</b> cada uno de los Zombis de Ciencias realiza un Ataque extra.
+2067f3e7-2cbc-4db9-8475-61f11cf675ba_longDesc, Al entrar en juego: Cada uno de los Zombis de Ciencias realiza un Ataque extra.
 ,
 ,
 ,
@@ -830,7 +806,7 @@
 ,
 ,
 ,
-20c29686-5b91-4541-9a4e-0f7125bb5ab2_flavorText,"""¡Tenías que haber visto al otro!""."
+20c29686-5b91-4541-9a4e-0f7125bb5ab2_flavorText,¡Tenías que haber visto al otro!.
 ,
 ,
 ,
@@ -850,7 +826,7 @@
 ,
 ,
 ,
-20d61ef9-56f4-4c34-b37b-116d023956bf_longDesc,<b>Al entrar en juego:</b> obtiene [+1a] por cada Sol que crearas este turno.
+20d61ef9-56f4-4c34-b37b-116d023956bf_longDesc,Al entrar en juego: Obtiene [+1a] por cada Sol que crearas este turno.
 ,
 ,
 ,
@@ -43051,6 +43027,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
