@@ -942,7 +942,7 @@
 ,
 ,
 ,
-281bf161-c2a1-4e88-a992-5c7f47d37f3f_flavorText,"Sí, tiene un temperamento explosivo. Pero la mayor parte del tiempo, se mantiene ecuánime."
+281bf161-c2a1-4e88-a992-5c7f47d37f3f_flavorText,Sí, tiene un temperamento explosivo. Pero la mayor parte del tiempo, se mantiene ecuánime.
 ,
 ,
 ,
@@ -958,11 +958,11 @@
 ,
 ,
 ,
-2890ebec-2c12-40b0-8b42-9efb7d52527a_flavorText,"Sí, es intenso. Pero solo quiere que las bayas lleguen al lugar que se propongan."
+2890ebec-2c12-40b0-8b42-9efb7d52527a_flavorText,Sí, es intenso. Pero solo quiere que las bayas lleguen al lugar que se propongan.
 ,
 ,
 ,
-2890ebec-2c12-40b0-8b42-9efb7d52527a_longDesc,Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo.
+2890ebec-2c12-40b0-8b42-9efb7d52527a_longDesc,"Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo."
 ,
 ,
 ,
@@ -970,11 +970,11 @@
 ,
 ,
 ,
-2890ebec-2c12-40b0-8b42-9efb7d52527a_shortDesc,Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo.
+2890ebec-2c12-40b0-8b42-9efb7d52527a_shortDesc,"Cuando otra Baya inflija daño a un Zombi o Héroe zombi, Sargento Bayafuerte le inflige 2 de daño extra a ese enemigo."
 ,
 ,
 ,
-28d5dfae-7e2f-4f1d-9694-3e933922d56e_flavorText,Todo el mundo les pregunta constantemente, ¿Por qué estáis tan enfadadas?, ¡pues por los ZOMBIS! Es tan obvio....
+28d5dfae-7e2f-4f1d-9694-3e933922d56e_flavorText,"Todo el mundo les pregunta constantemente, ¿Por qué estáis tan enfadadas?, ¡pues por los ZOMBIS! Es tan obvio...."
 ,
 ,
 ,
@@ -1006,30 +1006,6 @@
 ,
 ,
 ,
-29b93df1-d373-424d-a97a-2c9da3dcb667_longDesc,Roba 5 cartas. Cura 20. Obtén 30 Cerebros.
-,
-,
-,
-29b93df1-d373-424d-a97a-2c9da3dcb667_name,0 TRAMPAS ZOMBI 0
-,
-,
-,
-29b93df1-d373-424d-a97a-2c9da3dcb667_shortDesc,Roba 5 cartas. Cura 20 a tu Héroe. Obtén 30 Soles.
-,
-,
-,
-2a58f086-daf8-43b4-a452-b430212f058f_longDesc,
-,
-,
-,
-2a58f086-daf8-43b4-a452-b430212f058f_name,Maestro del rubo
-,
-,
-,
-2a58f086-daf8-43b4-a452-b430212f058f_shortDesc,
-,
-,
-,
 2a6a346b-bb24-4d25-98b2-a242c5ffd1be_flavorText,"Le da otra dimensión a la expresión ""llamar a casa""."
 ,
 ,
@@ -1050,7 +1026,7 @@
 ,
 ,
 ,
-2a897076-e81b-4d55-ae18-aa83d0485865_longDesc,<b>Al entrar en juego:</b> cura 4.
+2a897076-e81b-4d55-ae18-aa83d0485865_longDesc,Al entrar en juego: Cura 4.
 ,
 ,
 ,
@@ -1070,7 +1046,7 @@
 ,
 ,
 ,
-2aa11f52-3fac-4ec5-8719-8adde30ad7f5_longDesc,"Daño de área 4. Al entrar en juego: Congela un Zombi. Cuando inflige daño a un Zombi, congela a ese Zombi."
+2aa11f52-3fac-4ec5-8719-8adde30ad7f5_longDesc,"[splashdamage=4].\nAl entrar en juego: [frezee] un Zombi.\nCuando inflige daño a un Zombi, [freeze] a ese Zombi."
 ,
 ,
 ,
@@ -1078,7 +1054,7 @@
 ,
 ,
 ,
-2aa11f52-3fac-4ec5-8719-8adde30ad7f5_shortDesc,"Daño de área 4. Al entrar en juego: Congela un Zombi. Cuando inflige daño a un Zombi, congela a ese Zombi."
+2aa11f52-3fac-4ec5-8719-8adde30ad7f5_shortDesc,"[splashdamage=4].\nAl entrar en juego: [frezee] un Zombi. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
 ,
 ,
 ,
@@ -1122,7 +1098,7 @@
 ,
 ,
 ,
-2cbca8f4-1cd6-46ce-bca0-032d841c8916_longDesc,<b>Al entrar en juego:</b> inflige 2 de daño.
+2cbca8f4-1cd6-46ce-bca0-032d841c8916_longDesc,Al entrar en juego: Inflige 2 de daño.
 ,
 ,
 ,
@@ -1138,7 +1114,7 @@
 ,
 ,
 ,
-2e4ae395-c3e2-4447-a28c-6d67c18c4f61_flavorText,"""Sentid la quemadura, ¡OS LO ORDENO!""."
+2e4ae395-c3e2-4447-a28c-6d67c18c4f61_flavorText,"Sentid la quemadura, ¡OS LO ORDENO!."
 ,
 ,
 ,
@@ -1158,7 +1134,7 @@
 ,
 ,
 ,
-2e901695-83f7-4fa4-aa6b-35fc569e0c09_longDesc,<b>Al jugarse en Alturas</b> inflige 3 de daño.
+2e901695-83f7-4fa4-aa6b-35fc569e0c09_longDesc,Al jugarse en Alturas: Inflige 3 de daño.
 ,
 ,
 ,
@@ -1174,11 +1150,11 @@
 ,
 ,
 ,
-2f9fa005-8b50-4d1a-89be-38e4a82036c4_flavorText,"""Técnicamente soy una comida, no una planta""."
+2f9fa005-8b50-4d1a-89be-38e4a82036c4_flavorText,Técnicamente soy una comida, no una planta."
 ,
 ,
 ,
-2f9fa005-8b50-4d1a-89be-38e4a82036c4_longDesc,[aquatic] \n<b>Al ser destruido:</b> inflige 4 de daño a un Zombi en su línea.
+2f9fa005-8b50-4d1a-89be-38e4a82036c4_longDesc,[aquatic] \nAl ser destruido: Inflige 4 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -1186,7 +1162,7 @@
 ,
 ,
 ,
-2f9fa005-8b50-4d1a-89be-38e4a82036c4_shortDesc,[aquatic]. Al ser destruido: inflige 4 de daño a un Zombi en su línea.
+2f9fa005-8b50-4d1a-89be-38e4a82036c4_shortDesc,[aquatic]. Al ser destruido: Inflige 4 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -1210,7 +1186,7 @@
 ,
 ,
 ,
-2fe49558-6272-4d39-9e19-614141e9deb3_longDesc,<b>Al entrar en juego:</b> roba una carta.
+2fe49558-6272-4d39-9e19-614141e9deb3_longDesc,Al entrar en juego: Roba una carta.
 ,
 ,
 ,
@@ -1238,11 +1214,11 @@
 ,
 ,
 ,
-30d8fec3-e1d1-483d-b358-92d37e1f1041_flavorText,"""¿Conoces el dicho, 'Tres cabezas son mejores que una'? Pues es verdad""."
+30d8fec3-e1d1-483d-b358-92d37e1f1041_flavorText,"¿Conoces el dicho, Tres cabezas son mejores que una? Pues es verdad."
 ,
 ,
 ,
-30d8fec3-e1d1-483d-b358-92d37e1f1041_longDesc,<b>Al final del turno:</b> destruye todos los Zombis de su línea y las de al lado.
+30d8fec3-e1d1-483d-b358-92d37e1f1041_longDesc,Al final del turno: Destruye todos los Zombis de su línea y las de al lado.
 ,
 ,
 ,
@@ -1250,7 +1226,7 @@
 ,
 ,
 ,
-30d8fec3-e1d1-483d-b358-92d37e1f1041_shortDesc,Al final del turno: destruye todos los Zombis de su línea y las de al lado.
+30d8fec3-e1d1-483d-b358-92d37e1f1041_shortDesc,Al final del turno: Destruye todos los Zombis de su línea y las de al lado.
 ,
 ,
 ,
@@ -1270,7 +1246,7 @@
 ,
 ,
 ,
-317bf3e1-1686-4923-81a9-9d07934a0ae6_longDesc,"Anfibio, Frenesí. Al entrar en juego: Crea una Octomascota 3/2 con Anfibio y Frenesí. Al destruirse: hace rebotar a Octozombi."
+317bf3e1-1686-4923-81a9-9d07934a0ae6_longDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy].\nAl destruirse: Hace [bounce] a Octozombi."
 ,
 ,
 ,
@@ -1278,7 +1254,7 @@
 ,
 ,
 ,
-317bf3e1-1686-4923-81a9-9d07934a0ae6_shortDesc,"Anfibio, Frenesí. Al entrar en juego: Crea una Octomascota 3/2 con Anfibio y Frenesí. Al destruirse: hace rebotar a Octozombi."
+317bf3e1-1686-4923-81a9-9d07934a0ae6_shortDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy]. Al destruirse: Hace [bounce] a Octozombi."
 ,
 ,
 ,
@@ -1354,7 +1330,7 @@
 ,
 ,
 ,
-347af810-3555-4823-a0f4-100fe2a8c6b6_longDesc,"[gravestone]\n<b>Al revelarse</b>, un Zombi obtiene [+2a]/[+2h]."
+347af810-3555-4823-a0f4-100fe2a8c6b6_longDesc,[gravestone]\nAl revelarse: Un Zombi obtiene [+2a]/[+2h].
 ,
 ,
 ,
@@ -1362,7 +1338,7 @@
 ,
 ,
 ,
-347af810-3555-4823-a0f4-100fe2a8c6b6_shortDesc,"[gravestone]. Al revelarse, un Zombi obtiene [+2a]/[+2h]."
+347af810-3555-4823-a0f4-100fe2a8c6b6_shortDesc,[gravestone]. Al revelarse: Un Zombi obtiene [+2a]/[+2h].
 ,
 ,
 ,
@@ -43027,6 +43003,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
