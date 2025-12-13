@@ -498,7 +498,7 @@
 ,
 ,
 ,
-13460c21-ad49-4b22-95f5-d1c95086c660_longDesc,"[armored=1],[frenzy] y [untrickable]."
+13460c21-ad49-4b22-95f5-d1c95086c660_longDesc,"[armored=1],[frenzy] e [untrickable]."
 ,
 ,
 ,
@@ -506,7 +506,7 @@
 ,
 ,
 ,
-13460c21-ad49-4b22-95f5-d1c95086c660_shortDesc,"[armored=1], [frenzy], [untrickable]."
+13460c21-ad49-4b22-95f5-d1c95086c660_shortDesc,"[armored=1], [frenzy] e [untrickable]."
 ,
 ,
 ,
@@ -43027,6 +43027,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
