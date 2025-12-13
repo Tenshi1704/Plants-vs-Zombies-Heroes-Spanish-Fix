@@ -642,7 +642,7 @@
 ,
 ,
 ,
-1b84d98f-208b-4ff4-9ec6-7f409fa80c2a_flavorText,"Puede que la recuerdes por sus vídeos de entrenamiento, ""Mejoraseta esculpe tu cuerpo en 30 días</b>""."
+1b84d98f-208b-4ff4-9ec6-7f409fa80c2a_flavorText,"Puede que la recuerdes por sus vídeos de entrenamiento, ""Mejoraseta esculpe tu cuerpo en 30 días""."
 ,
 ,
 ,
@@ -43027,6 +43027,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
