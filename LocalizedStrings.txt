@@ -1650,7 +1650,7 @@
 ,
 ,
 ,
-42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_longDesc,Equipo. Al sufrir daño: Inflige 2 de daño al Héroe zombi.
+42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_longDesc,[teamup]. Al sufrir daño: Inflige 2 de daño al Héroe zombi.
 ,
 ,
 ,
@@ -1658,7 +1658,7 @@
 ,
 ,
 ,
-42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_shortDesc,Equipo. Al sufrir daño: Inflige 2 de daño al Héroe zombi.
+42c3b1b3-32b7-45e3-b1e2-22a71b56bcd3_shortDesc,[teamup]. Al sufrir daño: Inflige 2 de daño al Héroe zombi.
 ,
 ,
 ,
@@ -2042,7 +2042,7 @@
 ,
 ,
 ,
-535b4dc0-9478-4ddf-a80a-a94fddf22901_shortDesc,Crea un Champiñón [1a]/[1h] en una línea de tu elección. Luego aparece otro en una línea aleatoria.
+535b4dc0-9478-4ddf-a80a-a94fddf22901_shortDesc,Crea un Champiñón [1a]/[1h] en una línea de tu elección, luego aparece otro en una línea aleatoria.
 ,
 ,
 ,
@@ -4978,7 +4978,7 @@ b7c9550b-bce2-494f-af9a-1588dca7389d_flavorText,Tiene pegatinas de Supercerebroz
 ,
 ,
 ,
-b7c9550b-bce2-494f-af9a-1588dca7389d_longDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene +1 de Salud por cada Salud que tenga tu Héroe.
+b7c9550b-bce2-494f-af9a-1588dca7389d_longDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene [+1h] de Salud por cada Salud que tenga tu Héroe.
 ,
 ,
 ,
@@ -4986,7 +4986,7 @@ b7c9550b-bce2-494f-af9a-1588dca7389d_name,Aspirante a héroe
 ,
 ,
 ,
-b7c9550b-bce2-494f-af9a-1588dca7389d_shortDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene +1 de Salud por cada Salud que tenga tu Héroe.
+b7c9550b-bce2-494f-af9a-1588dca7389d_shortDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene [+1h] de Salud por cada Salud que tenga tu Héroe.
 ,
 ,
 ,
@@ -9114,7 +9114,7 @@ ded7367d-009f-4c3c-aa75-edeaf6e2da99_flavorText,Se disfrazó de bola de espejos 
 ,
 ,
 ,
-ded7367d-009f-4c3c-aa75-edeaf6e2da99_longDesc,"[strikethrough], [teamup]. Cuando tus Nueces sufran daño, inflige 1 de daño al Héroe zombi."
+ded7367d-009f-4c3c-aa75-edeaf6e2da99_longDesc,"[truestrike], [teamup]. Cuando tus Nueces sufran daño, inflige 1 de daño al Héroe zombi."
 ,
 ,
 ,
@@ -9122,7 +9122,7 @@ ded7367d-009f-4c3c-aa75-edeaf6e2da99_name,Nuez espejo
 ,
 ,
 ,
-ded7367d-009f-4c3c-aa75-edeaf6e2da99_shortDesc,"[strikethrough], [teamup]. Cuando tus Nueces sufran daño, inflige 1 de daño al Héroe zombi."
+ded7367d-009f-4c3c-aa75-edeaf6e2da99_shortDesc,"[truestrike], [teamup]. Cuando tus Nueces sufran daño, inflige 1 de daño al Héroe zombi."
 ,
 ,
 ,
@@ -9259,7 +9259,7 @@ Disco,"Bugalú Eléctrico lidera en la batalla a compañeros Bestiales y Locos.\
 ,
 ,
 ,
-Disco Dance Floor_flavorText,La Invasión triásica trajo lo mejor de la cultura zombi: la música disco.
+Disco Dance Floor_flavorText,La Invasión triásica trajo lo mejor de la cultura zombi: La música disco.
 ,
 ,
 ,
@@ -10307,7 +10307,7 @@ Forget-Me-Nuts_flavorText,"""Se me olvidaría mi propia flor si no la tuviera pe
 ,
 ,
 ,
-Forget-Me-Nuts_longDesc,Los Trucos zombi cuestan [2b] más.
+Forget-Me-Nuts_longDesc,Los Trucos zombi cuestan [1b] más.
 ,
 ,
 ,
@@ -10315,7 +10315,7 @@ Forget-Me-Nuts_name,Nuezmeolvides
 ,
 ,
 ,
-Forget-Me-Nuts_shortDesc,Los Trucos zombi cuestan [2b] más.
+Forget-Me-Nuts_shortDesc,Los Trucos zombi cuestan [1b] más.
 ,
 ,
 ,
@@ -11319,7 +11319,7 @@ Gravitree_flavorText,La manzana no cae lejos del árbol. Tampoco es que haga nad
 ,
 ,
 ,
-Gravitree_longDesc,"Blindaje 1, Intrucable. Cuando un Zombi entre en juego, muévelo a su línea."
+Gravitree_longDesc,"[armored=1], [untrickable]. Cuando un Zombi entre en juego, muévelo a su línea."
 ,
 ,
 ,
@@ -11327,7 +11327,7 @@ Gravitree_name,Gravitárbol
 ,
 ,
 ,
-Gravitree_shortDesc,"Blindaje 1, Intrucable. Cuando un Zombi entre en juego, muévelo a su línea."
+Gravitree_shortDesc,"[armored=1], [untrickable]. Cuando un Zombi entre en juego, muévelo a su línea."
 ,
 ,
 ,
@@ -29101,7 +29101,7 @@ Primal Sunflower_flavorText,"Los Girasoles son famosos por lo pacíficos que son
 ,
 ,
 ,
-Primal Sunflower_longDesc,<b>Al comienzo del turno:</b> obtienes [+2s].
+Primal Sunflower_longDesc,<b>Al comienzo del turno:</b> obtienes [+1s].
 ,
 ,
 ,
@@ -29109,7 +29109,7 @@ Primal Sunflower_name,Girasol primitivo
 ,
 ,
 ,
-Primal Sunflower_shortDesc,Al comienzo del turno: obtienes [+2s].
+Primal Sunflower_shortDesc,Al comienzo del turno: obtienes [+1s].
 ,
 ,
 ,
@@ -37249,7 +37249,7 @@ Starch Lord_heraldTrick,Conjurada por Señor del almidón
 ,
 ,
 ,
-Starch Lord_longDesc,"Cuando juegas una Raíz, esa Raíz obtiene [+1a]/[+1h].\n<b>Al comienzo del turno:</b> [conjure] una Raíz."
+Starch Lord_longDesc,"Cuando juegas una Raíz, ambas raíces obtienen [+1a]/[+1h].\nAl comienzo del turno: [conjure] una Raíz."
 ,
 ,
 ,
@@ -37257,7 +37257,7 @@ Starch Lord_name,Señor del almidón
 ,
 ,
 ,
-Starch Lord_shortDesc,"Cuando juegas una Raíz, esa Raíz obtiene [+1a]/[+1h]. Al comienzo del turno: [conjure] una Raíz."
+Starch Lord_shortDesc,"Cuando juegas una Raíz, ambas raíces obtienen [+1a]/[+1h]. Al comienzo del turno: [conjure] una Raíz."
 ,
 ,
 ,
@@ -41349,7 +41349,7 @@ Tough_Beets_flavorText,Creció en el lado equivocado del jardín.
 ,
 ,
 ,
-Tough_Beets_longDesc,Blindaje 1. Al entrar en juego: obtiene +1/+1 por cada otra Planta y Zombi.
+Tough_Beets_longDesc,[armored=1]. Al entrar en juego: obtiene [+1a]/[+1h] por cada otra Planta y Zombi.
 ,
 ,
 ,
@@ -41357,7 +41357,7 @@ Tough_Beets_name,Remolachas duras
 ,
 ,
 ,
-Tough_Beets_shortDesc,Blindaje 1. Al entrar en juego: obtiene +1/+1 por cada otra Planta y Zombi.
+Tough_Beets_shortDesc,[armored=1]. Al entrar en juego: obtiene [+1a]/[+1h] por cada otra Planta y Zombi.
 ,
 ,
 ,
@@ -41373,7 +41373,7 @@ Tractor Beam Technician_name,Alférez desarraigado
 ,
 ,
 ,
-Tractor Beam Technician_shortDesc,Anfibio. Al entrar en juego: Mueve otra Planta o Zombi.
+Tractor Beam Technician_shortDesc,[aquatic]. Al entrar en juego: Mueve otra Planta o Zombi.
 ,
 ,
 ,
@@ -42683,6 +42683,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
