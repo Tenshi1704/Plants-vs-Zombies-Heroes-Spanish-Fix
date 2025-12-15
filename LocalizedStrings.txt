@@ -3414,7 +3414,15 @@ a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_name,Destello de baya
 ,
 ,
 ,
+a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_longDesc,Inflige 3 de daño.
+,
+,
+,
 a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_shortDesc,Inflige 3 de daño.
+,
+,
+,
+va5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_name,Mantenerse vivo
 ,
 ,
 ,
@@ -42683,6 +42691,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
