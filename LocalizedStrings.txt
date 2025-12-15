@@ -3418,11 +3418,15 @@ a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_longDesc,Inflige 3 de daño.
 ,
 ,
 ,
-a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_shortDesc,Inflige 3 de daño.
+a68c3e0f-b39e-4add-97fd-280b6c2e1e78_shortDesc,"Realiza 3 puntos de daño a una Planta, cura [+3h] a tu Héroe"
 ,
 ,
 ,
-va5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_name,Mantenerse vivo
+a68c3e0f-b39e-4add-97fd-280b6c2e1e78_name,Mantenerse vivo
+,
+,
+,
+a68c3e0f-b39e-4add-97fd-280b6c2e1e78_longDesc,"Realiza 3 puntos de daño a una Planta, cura [+3h] a tu Héroe"
 ,
 ,
 ,
@@ -42691,6 +42695,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
