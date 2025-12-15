@@ -41789,7 +41789,7 @@ Veloci-Radish_heraldFighter,Hecho por Compañero Velocirrábano
 ,
 ,
 ,
-Veloci-Radish_longDesc,bd3f548c-51ca-4f6c-8621-85f0d9b81566_shortDesc
+Veloci-Radish_longDesc,Al entrar en juego: crea una copia suya con Equipo en su línea.\n[dinoroar]: Obtiene [+1] de Fuerza.
 ,
 ,
 ,
@@ -41797,7 +41797,7 @@ Veloci-Radish_name,Compañero Velocirrábano
 ,
 ,
 ,
-Veloci-Radish_shortDesc,Al entrar en juego: crea una copia suya con Equipo en su línea. Dinorrugido: obtiene +1 de Fuerza.
+Veloci-Radish_shortDesc,Al entrar en juego: crea una copia suya con Equipo en su línea. [dinoroar]: Obtiene [+1] de Fuerza.
 ,
 ,
 ,
@@ -42695,6 +42695,7 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+
 
 
 
