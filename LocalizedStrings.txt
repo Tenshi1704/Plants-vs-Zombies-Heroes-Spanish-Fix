@@ -550,7 +550,7 @@
 ,
 ,
 ,
-177fd8b4-532b-4d34-9ea9-a134ff807b1e_shortDesc,Cuando inflige daño a un Zombi, lo [freeze].
+177fd8b4-532b-4d34-9ea9-a134ff807b1e_shortDesc,"Cuando inflige daño a un Zombi, lo [freeze]."
 ,
 ,
 ,
@@ -3406,7 +3406,7 @@ a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_flavorText,Cruel y nutritivo.
 ,
 ,
 ,
-a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_longDesc,Inflige 3 de daño.
+a5d5a695-ec1a-47c5-aea8-3812dbd2a7f0_shortDesc,Inflige 3 de daño.
 ,
 ,
 ,
@@ -10195,7 +10195,7 @@ ff5915de-9512-442f-98d7-ee6e90b49201_heraldFighter,Creada por Corsario Zombot
 ,
 ,
 ,
-ff5915de-9512-442f-98d7-ee6e90b49201_longDesc,"[aquatic], [strikethrough]\n<b>Al entrar en juego:</b> crea otros dos Piratas aleatorios en líneas aleatorias."
+ff5915de-9512-442f-98d7-ee6e90b49201_longDesc,"[aquatic], [strikethrough]\nAl entrar en juego: Crea otros dos Piratas aleatorios en líneas aleatorias."
 ,
 ,
 ,
@@ -14877,7 +14877,7 @@ Jungle Drummer_flavorText,"Presenta una oferta especial: dos de sus cabezas por 
 ,
 ,
 ,
-Jungle Drummer_longDesc,"Cuando juegas una carta de Baile, inflige 2 de daño al Héroe planta. Evolución de Baile: obtiene +2/+2 y Diana."
+Jungle Drummer_longDesc,"Cuando juegas una carta de Baile, inflige 2 de daño al Héroe planta.\nEvolución de Baile: obtiene [+2a]/[+2b] y [truestrike]."
 ,
 ,
 ,
@@ -41953,7 +41953,7 @@ Witches_Familiar_flavorText,Como un chihuahua con alas... y colmillos... y antoj
 ,
 ,
 ,
-Witches_Familiar_longDesc,"Crea Murciélagos Zombi 2/1 que dicen ""Anfibio. Cuando inflige daño a una Planta: roba una carta."""
+Witches_Familiar_longDesc,"Crea Murciélagos Zombi [2a]/[2h] que dicen [aquatic]. Cuando inflige daño a una Planta: roba una carta."
 ,
 ,
 ,
@@ -41961,7 +41961,7 @@ Witches_Familiar_name,Murciélagos Zombi
 ,
 ,
 ,
-Witches_Familiar_shortDesc,"Crea Murciélagos Zombi 2/1 que dicen ""Anfibio. Cuando inflige daño a una Planta: roba una carta."""
+Witches_Familiar_shortDesc,"Crea Murciélagos Zombi [2a]/[2h] que dicen [aquatic]. Cuando inflige daño a una Planta: roba una carta."
 ,
 ,
 ,
@@ -41989,7 +41989,7 @@ Wormhole Gatekeeper_flavorText,"""Quédate aquí y protege este portón con tu n
 ,
 ,
 ,
-Wormhole Gatekeeper_longDesc,Las cartas que cualquiera de los jugadores conjure cuestan 1 menos. Al comienzo del turno: Cada jugador conjura una carta.
+Wormhole Gatekeeper_longDesc,Las cartas que cualquiera de los jugadores conjure cuestan [1b]/[1s] menos.\nAl comienzo del turno: Cada jugador [conjure] una carta.
 ,
 ,
 ,
@@ -41997,7 +41997,7 @@ Wormhole Gatekeeper_name,Guardiana del agujero de gusano
 ,
 ,
 ,
-Wormhole Gatekeeper_shortDesc,Las cartas que cualquiera de los jugadores conjure cuestan 1 menos. Al comienzo del turno: Cada jugador conjura una carta.
+Wormhole Gatekeeper_shortDesc,Las cartas que cualquiera de los jugadores conjure cuestan [1b]/[1s] menos. Al comienzo del turno: Cada jugador [conjure] una carta.
 ,
 ,
 ,
@@ -42005,7 +42005,7 @@ Yeti_Lunchbox_flavorText,¿Qué hay dentro? Un sándwich de manteca de cacahuete
 ,
 ,
 ,
-Yeti_Lunchbox_longDesc,"Un Zombi obtiene +1/+1. Si es una Mascota, obtiene +2/+1 en su lugar."
+Yeti_Lunchbox_longDesc,"Un Zombi obtiene [+1a]/[+1h].\nSi es una Mascota, obtiene [+2a]/[+1h] en su lugar."
 ,
 ,
 ,
@@ -42013,7 +42013,7 @@ Yeti_Lunchbox_name,Tartera del yeti
 ,
 ,
 ,
-Yeti_Lunchbox_shortDesc,"Un Zombi obtiene +1/+1. Si es una Mascota, obtiene +2/+1 en su lugar."
+Yeti_Lunchbox_shortDesc,"Un Zombi obtiene [+1a]/[+1h]. Si es una Mascota, obtiene [+2a]/[+1h] en su lugar."
 ,
 ,
 ,
