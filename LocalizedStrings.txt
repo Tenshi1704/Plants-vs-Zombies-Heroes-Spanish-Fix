@@ -42711,3 +42711,4 @@ PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
 
 
 
+
