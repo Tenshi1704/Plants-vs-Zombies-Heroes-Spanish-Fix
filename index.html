@@ -3,13 +3,14 @@
 <head>
   <meta charset="UTF-8">
 
+  <!-- Google Search Console -->
   <meta name="google-site-verification"
         content="6URGxlUFBo9GfxjKYDpL3qAl_4QO52DW4WQaukX1Ls4" />
-  
-  <title>Plants vs Zombies Heroes Spanish Fix</title>
+
+  <title>Plants vs Zombies Heroes – Spanish Fix</title>
 
   <meta name="description"
-        content="Parche de traducción al español para Plants vs Zombies Heroes. Corrige textos, errores de idioma y mejora la experiencia del juego.">
+        content="Parche de traducción al español para Plants vs Zombies Heroes. Corrige errores de idioma y mejora la experiencia del juego.">
 
   <meta name="robots" content="index, follow">
 
@@ -17,75 +18,124 @@
         href="https://tenshi1704.github.io/Plants-vs-Zombies-Heroes-Spanish-Fix/">
 
   <style>
+    :root {
+      --green-dark: #1b5e20;
+      --green-main: #43a047;
+      --green-light: #a5d6a7;
+      --text-dark: #263238;
+      --bg-card: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: Arial, Helvetica, sans-serif;
-      background: linear-gradient(135deg, #1b5e20, #4caf50);
-      color: #ffffff;
       margin: 0;
-      padding: 0;
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background: linear-gradient(135deg, #1b5e20, #66bb6a);
       min-height: 100vh;
       display: flex;
-      justify-content: center;
       align-items: center;
+      justify-content: center;
+      color: var(--text-dark);
     }
 
-    .container {
-      background-color: rgba(0, 0, 0, 0.35);
-      border-radius: 12px;
-      padding: 40px;
-      max-width: 720px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-      animation: fadeIn 1.2s ease-in-out;
+    .card {
+      background: var(--bg-card);
+      border-radius: 20px;
+      padding: 44px 40px;
+      max-width: 820px;
+      width: 92%;
+      box-shadow: 0 25px 45px rgba(0, 0, 0, 0.25);
+      animation: fadeUp 1s ease-out;
     }
 
-    h1 {
+    header {
       text-align: center;
-      font-size: 2.4rem;
-      margin-bottom: 10px;
-    }
-
-    .subtitle {
-      text-align: center;
-      font-size: 1.1rem;
       margin-bottom: 30px;
-      opacity: 0.9;
+    }
+
+    .logo {
+      max-width: 320px;
+      width: 100%;
+      height: auto;
+      margin-bottom: 18px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.6rem;
+      color: var(--green-dark);
+    }
+
+    header p {
+      margin-top: 6px;
+      font-size: 1.15rem;
+      color: #455a64;
+    }
+
+    section {
+      margin-top: 26px;
     }
 
     h2 {
-      border-left: 5px solid #81c784;
-      padding-left: 10px;
-      margin-top: 30px;
+      font-size: 1.4rem;
+      margin-bottom: 12px;
+      border-left: 6px solid var(--green-main);
+      padding-left: 12px;
+      color: var(--green-dark);
     }
 
     ul {
       list-style: none;
       padding-left: 0;
+      margin: 0;
+    }
+
+    ul li {
+      padding: 10px 0;
+      font-size: 1.05rem;
     }
 
     ul li::before {
       content: "🌱 ";
     }
 
-    a {
-      color: #c8e6c9;
-      font-weight: bold;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .repo-link {
+    .repo {
+      margin-top: 38px;
       text-align: center;
-      margin-top: 30px;
-      font-size: 1.1rem;
     }
 
-    @keyframes fadeIn {
+    .repo a {
+      display: inline-block;
+      padding: 14px 30px;
+      background: linear-gradient(135deg, #2e7d32, #66bb6a);
+      color: #ffffff;
+      border-radius: 32px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .repo a:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 22px rgba(0,0,0,0.35);
+    }
+
+    footer {
+      margin-top: 34px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #607d8b;
+    }
+
+    @keyframes fadeUp {
       from {
         opacity: 0;
-        transform: translateY(15px);
+        transform: translateY(20px);
       }
       to {
         opacity: 1;
@@ -96,32 +146,46 @@
 </head>
 
 <body>
-  <div class="container">
-    <h1>Plants vs Zombies Heroes</h1>
-    <div class="subtitle">Spanish Fix 🌿</div>
+  <main class="card">
+    <header>
+      <img
+        src="assets/img/logo-pvz-heroes.png"
+        alt="Logo de Plants vs Zombies Heroes"
+        class="logo"
+        loading="lazy">
 
-    <p>
-      Este proyecto proporciona un <strong>parche de traducción al español</strong>
-      para el juego <em>Plants vs Zombies Heroes</em>, corrigiendo errores de idioma
-      y textos sin traducir presentes en la versión original.
-    </p>
+      <h1>Plants vs Zombies Heroes</h1>
+      <p>Spanish Fix 🌿</p>
+    </header>
 
-    <h2>Características</h2>
-    <ul>
-      <li>Corrección de textos mal traducidos</li>
-      <li>Traducción completa al español</li>
-      <li>Compatibilidad con la versión original del juego</li>
-      <li>Proyecto de código abierto alojado en GitHub</li>
-    </ul>
+    <section>
+      <p>
+        Este proyecto proporciona un <strong>parche de traducción al español</strong>
+        para <em>Plants vs Zombies Heroes</em>, corrigiendo etiquetas del juego,
+        textos que no corresponden y errores que vienen en la traducción proporcionada por PoPCap.
+      </p>
+    </section>
 
-    <div class="repo-link">
-      🔗
+    <section>
+      <h2>Características</h2>
+      <ul>
+        <li>Corrección de textos desactualizados</li>
+        <li>Corrección de etiquetas</li>
+        <li>No interfiere con el modo multijugador</li>
+        <li>Proyecto de código abierto alojado en GitHub</li>
+      </ul>
+    </section>
+
+    <div class="repo">
       <a href="https://github.com/Tenshi1704/Plants-vs-Zombies-Heroes-Spanish-Fix"
          target="_blank" rel="noopener">
-        Repositorio oficial en GitHub
+        Ver repositorio en GitHub
       </a>
     </div>
-  </div>
+
+    <footer>
+      Proyecto hecho con cariño por un fan para fans
+    </footer>
+  </main>
 </body>
 </html>
-
