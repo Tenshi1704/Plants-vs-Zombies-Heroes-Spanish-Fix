@@ -618,7 +618,7 @@
 ,
 ,
 ,
-1a92d805-d288-4d12-9a5e-ce0099a98132_longDesc,[gravestone].\nAl poner en juego el primer Truco en cada turno, Conjura un Truco y cuesta [1b] menos.
+1a92d805-d288-4d12-9a5e-ce0099a98132_longDesc,[gravestone].\n"Al poner en juego el primer Truco en cada turno, [conjure] un Truco y cuesta [1b] menos."
 ,
 ,
 ,
@@ -626,7 +626,7 @@
 ,
 ,
 ,
-1a92d805-d288-4d12-9a5e-ce0099a98132_shortDesc,[gravestone]. Al poner en juego el primer Truco en cada turno, Conjura un Truco y cuesta [1b] menos.
+1a92d805-d288-4d12-9a5e-ce0099a98132_shortDesc,"[gravestone]. Al poner en juego el primer Truco en cada turno, [conjure] un Truco y cuesta [1b] menos."
 ,
 ,
 ,
@@ -2774,7 +2774,7 @@
 ,
 ,
 ,
-7a20f621-d60a-4bb6-9989-9e800df880d2_longDesc,Inflige 2 de daño. Obtienes [+1s] por el resto del juego.
+7a20f621-d60a-4bb6-9989-9e800df880d2_longDesc,Inflige 2 de daño.\nIniciando el siguiente turno: Obtienes [+1s] por el resto del juego.
 ,
 ,
 ,
@@ -2782,7 +2782,7 @@
 ,
 ,
 ,
-7a20f621-d60a-4bb6-9989-9e800df880d2_shortDesc,Inflige 2 de daño. Obtienes [+1s] por el resto del juego.
+7a20f621-d60a-4bb6-9989-9e800df880d2_shortDesc,Inflige 2 de daño. Iniciando el siguiente turno: Obtienes [+1s] por el resto del juego.
 ,
 ,
 ,
@@ -3078,7 +3078,7 @@
 ,
 ,
 ,
-8e314da9-4efb-4154-855c-d417f9118885_longDesc,Al entrar en juego: El Héroe planta pierde 2 Soles este turno.
+8e314da9-4efb-4154-855c-d417f9118885_longDesc,Al entrar en juego: El Héroe planta pierde [2s] este turno.
 ,
 ,
 ,
@@ -3086,7 +3086,7 @@
 ,
 ,
 ,
-8e314da9-4efb-4154-855c-d417f9118885_shortDesc,Al entrar en juego: El Héroe planta pierde 2 Soles este turno.
+8e314da9-4efb-4154-855c-d417f9118885_shortDesc,Al entrar en juego: El Héroe planta pierde [2s] este turno.
 ,
 ,
 ,
@@ -3254,7 +3254,7 @@
 ,
 ,
 ,
-993fec89-2d80-47be-a9e4-ac5b8856a0fa_longDesc,"[aquatic],[hunt].\nCuando un Zombi entra a cualquier línea, ese Zombi obtiene +1/+1."
+993fec89-2d80-47be-a9e4-ac5b8856a0fa_longDesc,"[aquatic], [hunt]. Cuando un Zombi entra a cualquier línea, ambos Zombis obtienen [+1a]/[+1h]."
 ,
 ,
 ,
@@ -3262,7 +3262,7 @@
 ,
 ,
 ,
-993fec89-2d80-47be-a9e4-ac5b8856a0fa_shortDesc,"[aquatic], [hunt]. Cuando un Zombi entra a cualquier línea, ese Zombi obtiene +1/+1."
+993fec89-2d80-47be-a9e4-ac5b8856a0fa_shortDesc,"[aquatic], [hunt]. Cuando un Zombi entra a cualquier línea, ambos Zombis obtienen [+1a]/[+1h]."
 ,
 ,
 ,
@@ -4990,7 +4990,7 @@ b7c9550b-bce2-494f-af9a-1588dca7389d_flavorText,Tiene pegatinas de Supercerebroz
 ,
 ,
 ,
-b7c9550b-bce2-494f-af9a-1588dca7389d_longDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene [+1h] de Salud por cada Salud que tenga tu Héroe.
+b7c9550b-bce2-494f-af9a-1588dca7389d_longDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene [+1h] de Salud por cada 1 de Salud que tenga tu Héroe.
 ,
 ,
 ,
@@ -4998,7 +4998,7 @@ b7c9550b-bce2-494f-af9a-1588dca7389d_name,Aspirante a héroe
 ,
 ,
 ,
-b7c9550b-bce2-494f-af9a-1588dca7389d_shortDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene [+1h] de Salud por cada Salud que tenga tu Héroe.
+b7c9550b-bce2-494f-af9a-1588dca7389d_shortDesc,[frenzy]. Al entrar en juego: Cura 3. Luego obtiene [+1h] de Salud por cada 1 de Salud que tenga tu Héroe.
 ,
 ,
 ,
@@ -5142,7 +5142,7 @@ Banana Split_heraldFighter,Creada por Plátano dividido
 ,
 ,
 ,
-Banana Split_longDesc,<b>Al ser destruido: Crea dos [linkhalfbananas] en las líneas de al lado.
+Banana Split_longDesc,Al ser destruido: Crea dos [linkhalfbananas] en las líneas de al lado.
 ,
 ,
 ,
@@ -6490,7 +6490,7 @@ Carbeanite_flavorText,¿Cuál es la probabilidad de conocer Lápidas? ¡No me la
 ,
 ,
 ,
-Carbeanite_longDesc,<b>Al entrar en juego: [freeze] todas las Lápidas.
+Carbeanite_longDesc,Al entrar en juego: [freeze] todas las Lápidas.
 ,
 ,
 ,
@@ -10127,7 +10127,7 @@ fbe3242b-d21b-4f57-b8cc-7e8bc462fc03_heraldFighter,Transformada por el Gran Cala
 ,
 ,
 ,
-fbe3242b-d21b-4f57-b8cc-7e8bc462fc03_longDesc,[aquatic]\n<b>Al entrar en juego:</b> transforma a todos los Zombis en Zombis [1a]/[1h] sin habilidades.
+fbe3242b-d21b-4f57-b8cc-7e8bc462fc03_longDesc,[aquatic]\nAl entrar en juego: Transforma a todos los Zombis en Zombis [1a]/[1h] sin habilidades.
 ,
 ,
 ,
@@ -10247,7 +10247,7 @@ Fire Rooster_flavorText,"Según el zodiaco chino, este año es el del Gallo de f
 ,
 ,
 ,
-Fire Rooster_longDesc,"Cuando se juegue una Planta en esta línea, se mueve a una línea al azar.\n<b>Cuando entra en una línea:</b> inflige 1 de daño a todas las Plantas de esa línea."
+Fire Rooster_longDesc,"Cuando se juegue una Planta en esta línea, se mueve a una línea al azar.\nCuando entra en una línea: Inflige 1 de daño a todas las Plantas de esa línea."
 ,
 ,
 ,
@@ -13999,7 +13999,7 @@ High Voltage Currant_heraldTrick,Conjurada por Grosella de alto voltaje
 ,
 ,
 ,
-High Voltage Currant_longDesc,Obtiene [+1a] cuando otra Baya inflige daño. \n<b>Al entrar en juego:</b> [conjure] una Baya.
+High Voltage Currant_longDesc,Obtiene [+1a] cuando otra Baya inflige daño. \nAl entrar en juego: [conjure] una Baya.
 ,
 ,
 ,
@@ -14035,7 +14035,7 @@ Hot Date_flavorText,"Su perfil está muy solicitado en los sitios web de citas c
 ,
 ,
 ,
-Hot Date_longDesc,Al entrar en juego: Mueve un Zombi a su línea.\n<b>Al ser destruido:</b> inflige 3 de daño a un Zombi en su línea.
+Hot Date_longDesc,Al entrar en juego: Mueve un Zombi a su línea.\nAl ser destruido: Inflige 3 de daño a un Zombi en su línea.
 ,
 ,
 ,
@@ -14583,7 +14583,7 @@ Imposter_heraldTrick,Conjurada por Zombidimpostor
 ,
 ,
 ,
-Imposter_longDesc,<b>Al ser destruido:</b> [conjure] un Zombidito de coste [1b]. Obtiene un Mostacho.
+Imposter_longDesc,Al ser destruido: [conjure] un Zombidito de coste [1b]. Obtiene un Mostacho.
 ,
 ,
 ,
@@ -14615,7 +14615,7 @@ Imp-Throwing Imp_heraldFighter,Creada por Zombidito lanzazombiditos
 ,
 ,
 ,
-Imp-Throwing Imp_longDesc,<b>Al sufrir daño:</b> crea un Zombidito aleatorio de coste [2b] o menos en una línea al azar.
+Imp-Throwing Imp_longDesc,<b>Al sufrir daño: Crea un Zombidito aleatorio de coste [2b] o menos en una línea al azar.
 ,
 ,
 ,
@@ -14659,7 +14659,7 @@ Intergalactic Warlord_flavorText,"En los círculos espaciales de Zombis, es una 
 ,
 ,
 ,
-Intergalactic Warlord_longDesc,"<b>Al entrar en juego:</b> durante el resto de la partida, todos los Zombis obtienen [+1a]/[+1h]."
+Intergalactic Warlord_longDesc,"Al entrar en juego: Durante el resto de la partida, todos los Zombis obtienen [+1a]/[+1h]."
 ,
 ,
 ,
@@ -14691,7 +14691,7 @@ Interplanetary Gardener_heraldFighter,Creada por Botánico de biocúpula
 ,
 ,
 ,
-Interplanetary Gardener_longDesc,<b>Al entrar en juego:</b> crea una Planta [1a]/[1h] sin habilidades.
+Interplanetary Gardener_longDesc,Al entrar en juego: Crea una Planta [1a]/[1h] sin habilidades.
 ,
 ,
 ,
@@ -14769,7 +14769,7 @@ Invasive Species_flavorText,"""Llámame 'hierba'. Vamos. Para mí es un cumplido
 ,
 ,
 ,
-Invasive Species_longDesc,<b>Cuando está en un Entorno:</b> obtiene [+3a].
+Invasive Species_longDesc,Cuando está en un Entorno: Obtiene [+3a].
 ,
 ,
 ,
@@ -14801,7 +14801,7 @@ Iron Boarder_flavorText,"Trabajar para un Gigantacus Enórmidus no fue su peor t
 ,
 ,
 ,
-Iron Boarder_longDesc,[truestrike]\n<b>Mientras esté en un Entorno:</b> obtiene [+1a]/[+1h].
+Iron Boarder_longDesc,[truestrike]\nMientras esté en un Entorno: Obtiene [+1a]/[+1h].
 ,
 ,
 ,
@@ -14833,7 +14833,7 @@ Jelly Bean_flavorText,"""No es lo fuerte que te derriben los Zombis. Es la durez
 ,
 ,
 ,
-Jelly Bean_longDesc,Obtiene [+1a]/[+1h] cuando algo es rebotado.\n<b>[beanevolution]:</b> Hace [bounce] un Zombi.
+Jelly Bean_longDesc,Obtiene [+1a]/[+1h] cuando algo es rebotado.\n[beanevolution]: Hace [bounce] un Zombi.
 ,
 ,
 ,
@@ -14841,7 +14841,7 @@ Jelly Bean_name,Frijol de jalea
 ,
 ,
 ,
-Jelly Bean_shortDesc,Obtiene [+1a]/[+1h] cuando algo es rebotado. [beanevolution]: hace [bounce] a un Zombi.
+Jelly Bean_shortDesc,Obtiene [+1a]/[+1h] cuando algo es rebotado. [beanevolution]: Hace [bounce] a un Zombi.
 ,
 ,
 ,
@@ -14861,7 +14861,7 @@ Jolly Holly_flavorText,"Sin exagerar, SIEMPRE está de buen humor. Incluso cuand
 ,
 ,
 ,
-Jolly Holly_longDesc,[aquatic].\n<b>Al entrar en juego:</b> [freeze] Zombis en las líneas de al lado.
+Jolly Holly_longDesc,[aquatic].\nAl entrar en juego: [freeze] Zombis en las líneas de al lado.
 ,
 ,
 ,
@@ -14893,7 +14893,7 @@ Jurassic Fossilhead_flavorText,"Para él, ser un carafósil no es un hobby. Es u
 ,
 ,
 ,
-Jurassic Fossilhead_longDesc,[untrickable]\n<b>[professionalevolution]:</b> obtiene [+2a]/[+2h].
+Jurassic Fossilhead_longDesc,[untrickable]\n[professionalevolution]: Obtiene [+2a]/[+2h].
 ,
 ,
 ,
@@ -14901,7 +14901,7 @@ Jurassic Fossilhead_name,Carafósil jurásico
 ,
 ,
 ,
-Jurassic Fossilhead_shortDesc,[untrickable]. [professionalevolution]: obtiene [+2a]/[+2h].
+Jurassic Fossilhead_shortDesc,[untrickable]. [professionalevolution]: Obtiene [+2a]/[+2h].
 ,
 ,
 ,
@@ -14913,7 +14913,7 @@ Kernel-Pult_flavorText,"Maíz chistes no, por favor."
 ,
 ,
 ,
-Kernel-Pult_longDesc,[teamup]\n<b>Al jugarse en Alturas:</b> un Zombi obtiene [-1a]/[-1h].
+Kernel-Pult_longDesc,[teamup]\nAl jugarse en Alturas: Un Zombi obtiene [-1a]/[-1h].
 ,
 ,
 ,
@@ -14933,7 +14933,7 @@ Ketchup Mechanic_flavorText,"Las mecánicas de ""catchup"" te ayudan a recuperar
 ,
 ,
 ,
-Ketchup Mechanic_longDesc,"<b>Al entrar en juego:</b> por cada Zombi, obtiene [+1a]/[+1h] y Cura 1 al Héroe planta."
+Ketchup Mechanic_longDesc,"Al entrar en juego: Por cada Zombi, obtiene [+1a]/[+1h] y Cura 1 al Héroe planta."
 ,
 ,
 ,
@@ -14993,7 +14993,7 @@ King of the Grill_heraldTrick,Conjurada por el Rey de la parrilla
 ,
 ,
 ,
-King of the Grill_longDesc,"Frenesí. Cuando un Zombistein destruye una Planta, Conjura una carta de Zombistein."
+King of the Grill_longDesc,"[frenzy]. Cuando un Zombistein destruye una Planta, [conjure] una carta de Zombistein."
 ,
 ,
 ,
@@ -15001,7 +15001,7 @@ King of the Grill_name,Rey de la parrilla
 ,
 ,
 ,
-King of the Grill_shortDesc,"Frenesí. Cuando un Zombistein destruye una Planta, Conjura una carta de Zombistein."
+King of the Grill_shortDesc,"[frenzy]. Cuando un Zombistein destruye una Planta, [conjure] una carta de Zombistein."
 ,
 ,
 ,
@@ -41257,7 +41257,7 @@ Terror-Former 2000_heraldTrick,Conjurada por Terrorformador 10.000
 ,
 ,
 ,
-Terror-Former 2000_longDesc,Conjura un Entorno y un Truco. Todas las cartas de Entorno y Truco de tu mano cuestan 1 menos.
+Terror-Former 2000_longDesc,[conjure] un Entorno y un Truco.\nTodas las cartas de Entorno y Truco de tu mano cuestan [1b] menos.
 ,
 ,
 ,
@@ -41265,7 +41265,7 @@ Terror-Former 2000_name,Terrorformador 10.000
 ,
 ,
 ,
-Terror-Former 2000_shortDesc,Conjura un Entorno y un Truco. Todas las cartas de Entorno y Truco de tu mano cuestan 1 menos.
+Terror-Former 2000_shortDesc,[conjure] un Entorno y un Truco.\nTodas las cartas de Entorno y Truco de tu mano cuestan 1 menos.
 ,
 ,
 ,
@@ -41417,7 +41417,7 @@ Trans-fig-uration_heraldFighter,Transformada por Transfiguración
 ,
 ,
 ,
-Trans-fig-uration_longDesc,Al final del turno: Se transforma en una Planta aleatoria de coste [1s].\nLa planta transformada conserva la habilidad.
+Trans-fig-uration_longDesc,Al final del turno: Se transforma en una Planta aleatoria de coste [1s] más.\nLa planta transformada conserva la habilidad.
 ,
 ,
 ,
@@ -41425,7 +41425,7 @@ Trans-fig-uration_name,Transfiguración
 ,
 ,
 ,
-Trans-fig-uration_shortDesc,Al final del turno: Se transforma en una Planta aleatoria de coste [1s].\nLa planta transformada conserva la habilidad.
+Trans-fig-uration_shortDesc,Al final del turno: Se transforma en una Planta aleatoria de coste [1s] más.\nLa planta transformada conserva la habilidad.
 ,
 ,
 ,
@@ -41633,7 +41633,7 @@ Turquoise Skull Zombie_flavorText,La mística Calavera turquesa fue la que robó
 ,
 ,
 ,
-Turquoise Skull Zombie_longDesc,Lápida. Al comienzo del turno: El jugador planta pierde [1s]. Obtiene [+1a]/[+1s].
+Turquoise Skull Zombie_longDesc,Lápida. Al comienzo del turno: El jugador planta pierde [1s]. Obtiene [+1a]/[+1h].
 ,
 ,
 ,
@@ -42679,3 +42679,8 @@ LEADERBOARD_SCREEN_HISTORY_TEXT,Historial,
 LEADERBOARD_RIBBON_TEXT_LOSES,"Si dos o más jugadores tienen la misma cantidad de trofeos, el jugador con menos derrotas durante la temporada obtiene el rango más alto.",
 LEADERBOARD_RIBBON_TEXT_WINS,"Si la cantidad de trofeos es la misma, los jugadores se clasificarán según el total de partidas jugadas en las rondas activas del marcador.",
 PACK_PREVIEW_DROP_RATE_TEXT,Probabilidad por carta para esta rareza: {0},
+QUEST_MORE_GEM_TITLE,Más joyas,
+HIGHER_REWARD_UPTO_TITLE,Recompensas más altas: Hasta un 50%,
+MORE_TICKETS_TITLE,25% más de boletos,
+HIGHER_REWARDS_TEXT,Mejores premios,
+BONUS_TEXT,Bonificación,
