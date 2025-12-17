@@ -25,7 +25,7 @@ Tutorial:
 
 2. Una vez descargado dirigete a Android > data > com.ea.gp.pvzheroes > files > cache > bundles
 
-- *Nota: Recomiendo Recomiendo **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y Recomiendo **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**. ¿Como usar Shizuku?: [Tutorial](https://www.youtube.com/watch?v=fPogbLkwodU)*
+- *Nota: Recomiendo **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y Recomiendo **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**. ¿Como usar Shizuku?: [Tutorial](https://www.youtube.com/watch?v=fPogbLkwodU)*
 
 3. Reemplaza el archivo original con el modificado
 
