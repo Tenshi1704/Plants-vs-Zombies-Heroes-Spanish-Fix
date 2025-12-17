@@ -19,3 +19,11 @@ Si notan algo pues me lo hacen saber, se los agradezco de corazón
 Ya los gringos hicieron ese trabajo hace meses, así que es nuestro turno :)
 
 Se puede jugar multijugador sin ningún problema; Sí se puede jugar con mazos hackeados...
+
+Tutorial:
+1. Descarga el [Archivo](https://github.com/Tenshi1704/Plants-vs-Zombies-Heroes-Spanish-Fix/releases/tag/First_Release)
+2. Una vez descargado dirigete a Android > data > com.ea.gp.pvzheroes > files > cache > bundles
+Nota: Recomiendo Recomiendo **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y Recomiendo **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**, ¿Como usar Shizuku?: [Tutorial](https://www.youtube.com/watch?v=fPogbLkwodU)
+3. Reemplaza el archivo original con el modificado
+Nota: Considera que cuando actualizan el juego con contenido nuevo el archivo se actualizará, si vez que no coincide significa que no he actualizado el archivo, así que espera a que lanze el archivo correspondiente.
+4. Disfurta del juego :)
