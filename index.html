@@ -30,16 +30,22 @@
     }
 
     body {
-      margin: 0;
-      font-family: "Segoe UI", Roboto, Arial, sans-serif;
-      background: linear-gradient(135deg, #1b5e20, #66bb6a);
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--text-dark);
-    }
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
 
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("assets/img/background.jpg") center / cover no-repeat fixed;
+
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-dark);
+}
     .card {
       background: var(--bg-card);
       border-radius: 20px;
@@ -251,4 +257,5 @@
   </main>
 </body>
 </html>
+
 
