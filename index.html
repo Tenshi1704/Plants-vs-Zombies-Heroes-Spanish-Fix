@@ -10,7 +10,7 @@
   <title>Plants vs Zombies Heroes – Spanish Fix</title>
 
   <meta name="description"
-        content="Parche de traducción al español para Plants vs Zombies Heroes. Corrige errores de idioma y mejora la experiencia del juego.">
+        content="Parche de traducción al español para Plants vs Zombies Heroes. Corrige textos, errores de idioma y mejora la experiencia del juego.">
 
   <meta name="robots" content="index, follow">
 
@@ -21,7 +21,6 @@
     :root {
       --green-dark: #1b5e20;
       --green-main: #43a047;
-      --green-light: #a5d6a7;
       --text-dark: #263238;
       --bg-card: #ffffff;
     }
@@ -45,8 +44,8 @@
       background: var(--bg-card);
       border-radius: 20px;
       padding: 44px 40px;
-      max-width: 820px;
-      width: 92%;
+      max-width: 900px;
+      width: 94%;
       box-shadow: 0 25px 45px rgba(0, 0, 0, 0.25);
       animation: fadeUp 1s ease-out;
     }
@@ -57,20 +56,14 @@
     }
 
     .logo {
-      max-width: 320px;
+      max-width: 360px;
       width: 100%;
       height: auto;
-      margin-bottom: 18px;
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 2.6rem;
-      color: var(--green-dark);
+      margin-bottom: 10px;
     }
 
     header p {
-      margin-top: 6px;
+      margin: 0;
       font-size: 1.15rem;
       color: #455a64;
     }
@@ -81,7 +74,7 @@
 
     h2 {
       font-size: 1.4rem;
-      margin-bottom: 12px;
+      margin-bottom: 14px;
       border-left: 6px solid var(--green-main);
       padding-left: 12px;
       color: var(--green-dark);
@@ -102,8 +95,42 @@
       content: "🌱 ";
     }
 
+    .gallery {
+      margin-top: 36px;
+    }
+
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 20px;
+    }
+
+    .gallery figure {
+      margin: 0;
+      text-align: center;
+    }
+
+    .gallery img {
+      width: 100%;
+      border-radius: 14px;
+      background: #ffffff;
+      box-shadow: 0 8px 18px rgba(0,0,0,0.25);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+
+    .gallery img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 14px 28px rgba(0,0,0,0.35);
+    }
+
+    .gallery figcaption {
+      margin-top: 8px;
+      font-size: 0.9rem;
+      color: #455a64;
+    }
+
     .repo {
-      margin-top: 38px;
+      margin-top: 40px;
       text-align: center;
     }
 
@@ -148,32 +175,67 @@
 <body>
   <main class="card">
     <header>
+      <!-- El logo actúa como título visual -->
       <img
         src="assets/img/logo-pvz-heroes.png"
-        alt="Logo de Plants vs Zombies Heroes"
+        alt="Plants vs Zombies Heroes Spanish Fix"
         class="logo"
         loading="lazy">
 
-      <h1>Plants vs Zombies Heroes</h1>
-      <p>Spanish Fix 🌿</p>
+      <p>Parche de traducción al español 🌿</p>
     </header>
 
     <section>
       <p>
-        Este proyecto proporciona un <strong>parche de traducción al español</strong>
-        para <em>Plants vs Zombies Heroes</em>, corrigiendo etiquetas del juego,
-        textos que no corresponden y errores que vienen en la traducción proporcionada por PoPCap.
+        Este proyecto proporciona un <strong>parche con correcciones a la traducción del juego en español</strong>
+        para <em>Plants vs Zombies Heroes</em>
       </p>
     </section>
 
     <section>
-      <h2>Características</h2>
+      <h2>¿Que se corrige?</h2>
       <ul>
-        <li>Corrección de textos desactualizados</li>
-        <li>Corrección de etiquetas</li>
-        <li>No interfiere con el modo multijugador</li>
-        <li>Proyecto de código abierto alojado en GitHub</li>
+        <li>Textos de cartas desactualizados</li>
+        <li>Etiquetas no aplicadas a cartas</li>
+        <li>No afecta al modo multijugador</li>
+        <li>Proyecto de código abierto</li>
       </ul>
+    </section>
+
+    <section class="gallery">
+      <h2>Ejemplos:</h2>
+
+      <div class="gallery-grid">
+        <figure>
+          <img src="assets/img/gravitabol.png" alt="Gravitabol traducido al español" loading="lazy">
+          <figcaption>Gravitabol</figcaption>
+        </figure>
+
+        <figure>
+          <img src="assets/img/pulpozombi.png" alt="Pulpo Zombi traducido al español" loading="lazy">
+          <figcaption>Pulpo Zombi</figcaption>
+        </figure>
+
+        <figure>
+          <img src="assets/img/quemadura.png" alt="Carta de quemadura traducida" loading="lazy">
+          <figcaption>Quemadura</figcaption>
+        </figure>
+
+        <figure>
+          <img src="assets/img/terraformador.png" alt="Terraformador traducido al español" loading="lazy">
+          <figcaption>Terraformador</figcaption>
+        </figure>
+
+        <figure>
+          <img src="assets/img/zombieallstar.png" alt="Zombi All-Star en español" loading="lazy">
+          <figcaption>Zombi All-Star</figcaption>
+        </figure>
+
+        <figure>
+          <img src="assets/img/zombisteinbrujo.png" alt="Zombistein Brujo traducido al español" loading="lazy">
+          <figcaption>Zombistein Brujo</figcaption>
+        </figure>
+      </div>
     </section>
 
     <div class="repo">
@@ -184,7 +246,7 @@
     </div>
 
     <footer>
-      Proyecto hecho con cariño por un fan para fans
+      Proyecto no oficial · ♡ Hecho con cariño por un fan para fans ♡.
     </footer>
   </main>
 </body>
