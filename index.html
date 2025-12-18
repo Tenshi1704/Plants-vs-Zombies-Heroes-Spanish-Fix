@@ -10,7 +10,7 @@
   <title>Plants vs Zombies Heroes – Spanish Fix</title>
 
   <meta name="description"
-        content="Parche de corrección de traducción al español para Plants vs Zombies Heroes.">
+        content="Parche de corrección de traducciones al español para Plants vs Zombies Heroes.">
 
   <meta name="robots" content="index, follow">
 
@@ -81,6 +81,8 @@
       color: var(--green-dark);
     }
 
+    /* ===== LISTA CON ICONO SOL (IMAGEN REAL) ===== */
+
     ul {
       list-style: none;
       padding-left: 0;
@@ -88,12 +90,19 @@
     }
 
     ul li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
       padding: 10px 0;
       font-size: 1.05rem;
     }
 
     ul li::before {
-      content: "☀️ ";
+      content: "";
+      width: 28px;
+      height: 28px;
+      background: url("assets/img/icon-sun-png.png") no-repeat center / contain;
+      flex-shrink: 0;
     }
 
     /* ===== GALERÍA ===== */
@@ -139,22 +148,23 @@
       box-shadow: 0 20px 40px rgba(0,0,0,0.6);
     }
 
-    /* Flechas SIN transparencia */
+    /* Flechas SIN background */
     .lightbox .nav {
       position: absolute;
       top: 50%;
       transform: translateY(-50%);
-      font-size: 3rem;
+      font-size: 3.5rem;
       color: #ffffff;
-      background: #1b5e20;
-      padding: 12px 18px;
-      border-radius: 50%;
+      background: none;
+      padding: 0;
+      border: none;
       text-decoration: none;
       user-select: none;
+      text-shadow: 0 4px 8px rgba(0,0,0,0.7);
     }
 
     .lightbox .nav:hover {
-      background: #2e7d32;
+      color: #a5d6a7;
     }
 
     .lightbox .prev {
@@ -214,7 +224,7 @@
          class="logo">
 
     <p class="intro">
-      Parche de corrección de traducción al español para
+      Parche de corrección de traducciones al español para
       <strong>Plants vs Zombies Heroes</strong>.
     </p>
   </header>
@@ -230,7 +240,7 @@
   </section>
 
   <section class="gallery">
-    <h2>Ejemplos</h2>
+    <h2>Ejemplos:</h2>
 
     <div class="gallery-grid">
       <a href="#z1"><img src="assets/img/gravitarbol.png" alt=""></a>
