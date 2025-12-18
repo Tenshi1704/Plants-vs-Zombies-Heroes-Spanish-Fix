@@ -25,9 +25,7 @@
       --bg-card: #ffffff;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -52,42 +50,30 @@
       animation: fadeUp 1s ease-out;
     }
 
-    header {
-      text-align: center;
-      margin-bottom: 30px;
-    }
+    header { text-align: center; }
 
     .logo {
       max-width: 360px;
       width: 100%;
-      height: auto;
     }
 
-    section {
-      margin-top: 26px;
-    }
+    section { margin-top: 26px; }
 
     h2 {
       font-size: 1.4rem;
-      margin-bottom: 14px;
       border-left: 6px solid var(--green-main);
       padding-left: 12px;
       color: var(--green-dark);
     }
 
-    /* ===== LISTA CON ICONOS DE IMAGEN ===== */
+    /* ===== LISTA CON ICONO SOL ===== */
 
-    ul {
-      list-style: none;
-      padding-left: 0;
-      margin: 0;
-    }
+    ul { list-style: none; padding-left: 0; }
 
     ul li {
       position: relative;
       padding-left: 42px;
       margin: 12px 0;
-      font-size: 1.05rem;
     }
 
     ul li::before {
@@ -98,56 +84,46 @@
       transform: translateY(-50%);
       width: 26px;
       height: 26px;
-      background-image: url("assets/img/icon-sun.png");
-      background-size: contain;
-      background-repeat: no-repeat;
+      background: url("assets/img/icon-sun.png") no-repeat center / contain;
       animation: pulse 2s infinite;
     }
 
     @keyframes pulse {
-      0%, 100% {
-        transform: translateY(-50%) scale(1);
-      }
-      50% {
-        transform: translateY(-50%) scale(1.15);
-      }
+      0%,100% { transform: translateY(-50%) scale(1); }
+      50% { transform: translateY(-50%) scale(1.15); }
     }
 
     /* ===== GALERÍA ===== */
 
     .gallery-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
       gap: 20px;
     }
 
     .gallery img {
       width: 100%;
       border-radius: 14px;
-      box-shadow: 0 8px 18px rgba(0,0,0,0.25);
-      transition: transform 0.25s ease;
+      box-shadow: 0 8px 18px rgba(0,0,0,.25);
+      transition: transform .25s ease;
     }
 
-    .gallery img:hover {
-      transform: scale(1.05);
-    }
+    .gallery img:hover { transform: scale(1.05); }
 
-    /* ===== ZOOM SOLO GALERÍA ===== */
+    /* ===== ZOOM + NAVEGACIÓN ===== */
 
-    .gallery a {
-      cursor: zoom-in;
-    }
+    .gallery a { cursor: zoom-in; }
 
     .lightbox {
       position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.85);
+      background: rgba(0,0,0,.85);
       display: flex;
       align-items: center;
       justify-content: center;
       opacity: 0;
       pointer-events: none;
-      transition: opacity 0.3s ease;
+      transition: opacity .3s ease;
       z-index: 9999;
     }
 
@@ -160,30 +136,39 @@
       max-width: 90%;
       max-height: 90%;
       border-radius: 18px;
-      box-shadow: 0 25px 45px rgba(0,0,0,0.6);
-      animation: zoomIn 0.3s ease;
+      box-shadow: 0 25px 45px rgba(0,0,0,.6);
+      animation: zoomIn .3s ease;
     }
 
     @keyframes zoomIn {
-      from {
-        transform: scale(0.9);
-        opacity: 0;
-      }
-      to {
-        transform: scale(1);
-        opacity: 1;
-      }
+      from { transform: scale(.9); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
     }
 
-    .repo {
-      text-align: center;
-      margin-top: 40px;
+    .nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 3rem;
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 18px;
+      background: rgba(0,0,0,.4);
+      border-radius: 50%;
+      user-select: none;
     }
+
+    .nav:hover { background: rgba(255,255,255,.2); }
+
+    .prev { left: 30px; }
+    .next { right: 30px; }
+
+    .repo { text-align: center; margin-top: 40px; }
 
     .repo a {
       padding: 14px 30px;
-      background: linear-gradient(135deg, #2e7d32, #66bb6a);
-      color: white;
+      background: linear-gradient(135deg,#2e7d32,#66bb6a);
+      color: #fff;
       border-radius: 32px;
       text-decoration: none;
       font-weight: 600;
@@ -192,75 +177,70 @@
     footer {
       text-align: center;
       margin-top: 30px;
-      font-size: 0.9rem;
+      font-size: .9rem;
       color: #607d8b;
     }
 
     @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
+      from { opacity:0; transform:translateY(20px); }
+      to { opacity:1; transform:translateY(0); }
     }
   </style>
 </head>
 
 <body>
-  <main class="card">
+<main class="card">
 
-    <header>
-      <img src="assets/img/logo-pvz-heroes.png"
-           alt="Plants vs Zombies Heroes Spanish Fix"
-           class="logo">
-    </header>
+<header>
+  <img src="assets/img/logo-pvz-heroes.png"
+       alt="Plants vs Zombies Heroes Spanish Fix"
+       class="logo">
+</header>
 
-    <section>
-      <p>
-        Parche de corrección de traducciones al español para
-        <strong>Plants vs Zombies Heroes</strong>.
-      </p>
-    </section>
+<section>
+  <p>Parche de corrección de traducciones al español para
+  <strong>Plants vs Zombies Heroes</strong>.</p>
+</section>
 
-    <section>
-      <h2>¿Qué se corrige?</h2>
-      <ul>
-        <li>Textos de cartas desactualizados</li>
-        <li>Etiquetas no aplicadas a cartas</li>
-        <li>No afecta al modo multijugador</li>
-        <li>Proyecto de código abierto</li>
-      </ul>
-    </section>
+<section>
+  <h2>¿Qué se corrige?</h2>
+  <ul>
+    <li>Textos de cartas desactualizados</li>
+    <li>Etiquetas no aplicadas a cartas</li>
+    <li>No afecta al modo multijugador</li>
+    <li>Proyecto de código abierto</li>
+  </ul>
+</section>
 
-    <section class="gallery">
-      <h2>Ejemplos:</h2>
+<section class="gallery">
+  <h2>Ejemplos</h2>
+  <div class="gallery-grid">
+    <a href="#z1"><img src="assets/img/gravitarbol.png"></a>
+    <a href="#z2"><img src="assets/img/pulpozombi.png"></a>
+    <a href="#z3"><img src="assets/img/quemadura.png"></a>
+    <a href="#z4"><img src="assets/img/terrorformador.png"></a>
+    <a href="#z5"><img src="assets/img/zombieallstar.png"></a>
+    <a href="#z6"><img src="assets/img/zombisteinbrujo.png"></a>
+  </div>
+</section>
 
-      <div class="gallery-grid">
-        <a href="#zoom1"><img src="assets/img/gravitarbol.png" alt="Gravitabol"></a>
-        <a href="#zoom2"><img src="assets/img/pulpozombi.png" alt="Pulpo Zombi"></a>
-        <a href="#zoom3"><img src="assets/img/quemadura.png" alt="Quemadura"></a>
-        <a href="#zoom4"><img src="assets/img/terrorformador.png" alt="Terraformador"></a>
-        <a href="#zoom5"><img src="assets/img/zombieallstar.png" alt="Zombi All-Star"></a>
-        <a href="#zoom6"><img src="assets/img/zombisteinbrujo.png" alt="Zombistein Brujo"></a>
-      </div>
-    </section>
+<div class="repo">
+  <a href="https://github.com/Tenshi1704/Plants-vs-Zombies-Heroes-Spanish-Fix"
+     target="_blank" rel="noopener">
+     Ver repositorio en GitHub
+  </a>
+</div>
 
-    <div class="repo">
-      <a href="https://github.com/Tenshi1704/Plants-vs-Zombies-Heroes-Spanish-Fix"
-         target="_blank" rel="noopener">
-        Ver repositorio en GitHub
-      </a>
-    </div>
+<footer>♡ Hecho por un fan para fans ♡</footer>
+</main>
 
-    <footer>
-      ♡ Hecho por fans para fans ♡
-    </footer>
-  </main>
-
-  <!-- LIGHTBOX -->
-  <div id="zoom1" class="lightbox"><a href="#"><img src="assets/img/gravitarbol.png"></a></div>
-  <div id="zoom2" class="lightbox"><a href="#"><img src="assets/img/pulpozombi.png"></a></div>
-  <div id="zoom3" class="lightbox"><a href="#"><img src="assets/img/quemadura.png"></a></div>
-  <div id="zoom4" class="lightbox"><a href="#"><img src="assets/img/terrorformador.png"></a></div>
-  <div id="zoom5" class="lightbox"><a href="#"><img src="assets/img/zombieallstar.png"></a></div>
-  <div id="zoom6" class="lightbox"><a href="#"><img src="assets/img/zombisteinbrujo.png"></a></div>
+<!-- LIGHTBOX CON NAVEGACIÓN -->
+<div id="z1" class="lightbox"><a class="nav prev" href="#z6">‹</a><a href="#"><img src="assets/img/gravitarbol.png"></a><a class="nav next" href="#z2">›</a></div>
+<div id="z2" class="lightbox"><a class="nav prev" href="#z1">‹</a><a href="#"><img src="assets/img/pulpozombi.png"></a><a class="nav next" href="#z3">›</a></div>
+<div id="z3" class="lightbox"><a class="nav prev" href="#z2">‹</a><a href="#"><img src="assets/img/quemadura.png"></a><a class="nav next" href="#z4">›</a></div>
+<div id="z4" class="lightbox"><a class="nav prev" href="#z3">‹</a><a href="#"><img src="assets/img/terrorformador.png"></a><a class="nav next" href="#z5">›</a></div>
+<div id="z5" class="lightbox"><a class="nav prev" href="#z4">‹</a><a href="#"><img src="assets/img/zombieallstar.png"></a><a class="nav next" href="#z6">›</a></div>
+<div id="z6" class="lightbox"><a class="nav prev" href="#z5">‹</a><a href="#"><img src="assets/img/zombisteinbrujo.png"></a><a class="nav next" href="#z1">›</a></div>
 
 </body>
 </html>
