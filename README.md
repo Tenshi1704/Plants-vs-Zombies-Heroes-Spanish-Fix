@@ -27,7 +27,7 @@ Tutorial:
 
 - *Nota: Recomiendo **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y recomiendo **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**. ¿Como usar Shizuku?: [Tutorial](https://www.youtube.com/watch?v=fPogbLkwodU)*
 
-3. Si tienes root omite lo anterior
+3. Si tienes root solo es instalar **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**
 
 4. Reemplaza el archivo original con el modificado
 
