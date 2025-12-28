@@ -1,36 +1,36 @@
 ![MV5BNzEwOTE3NWYtZjM3Mi00NWNhLWI4MjgtNWEwMThhMGVkYjZiXkEyXkFqcGc@ _V1_](https://github.com/user-attachments/assets/043a2d1b-bb0b-4570-96f6-9de478558697)
 
-Yo: Lo que toda latam unida ha esperado desde hace 1 año....
+𝘠𝘰: 𝘓𝘰 𝘲𝘶𝘦 𝘵𝘰𝘥𝘢 𝘭𝘢𝘵𝘢𝘮 𝘶𝘯𝘪𝘥𝘢 𝘩𝘢 𝘦𝘴𝘱𝘦𝘳𝘢𝘥𝘰 𝘥𝘦𝘴𝘥𝘦 𝘩𝘢𝘤𝘦 1 𝘢ñ𝘰....
 
-Fans: ¿Que PopCap porfin actualize el juego con cambios de los GOD?
+𝘍𝘢𝘯𝘴: ¿𝘘𝘶𝘦 𝘗𝘰𝘱𝘊𝘢𝘱 𝘱𝘰𝘳𝘧𝘪𝘯 𝘢𝘤𝘵𝘶𝘢𝘭𝘪𝘻𝘦 𝘦𝘭 𝘫𝘶𝘦𝘨𝘰 𝘤𝘰𝘯 𝘤𝘢𝘮𝘣𝘪𝘰𝘴 𝘥𝘦 𝘭𝘰𝘴 𝘎𝘖𝘋?
 
-Yo: Nah, no vez lo que hicieron la última vez...
+𝘠𝘰: 𝘕𝘢𝘩, 𝘯𝘰 𝘷𝘦𝘻 𝘭𝘰 𝘲𝘶𝘦 𝘩𝘪𝘤𝘪𝘦𝘳𝘰𝘯 𝘭𝘢 ú𝘭𝘵𝘪𝘮𝘢 𝘷𝘦𝘻...
 
-Fans: Cierto.... mejor no
+𝘍𝘢𝘯𝘴: 𝘊𝘪𝘦𝘳𝘵𝘰.... 𝘮𝘦𝘫𝘰𝘳 𝘯𝘰
 
-Así que lo otro que muchos esperan es que alguien se encargue de la traducción y ya que el equipo de PopCap está de hiatus...
+𝘈𝘴í 𝘲𝘶𝘦 𝘭𝘰 𝘰𝘵𝘳𝘰 𝘲𝘶𝘦 𝘮𝘶𝘤𝘩𝘰𝘴 𝘦𝘴𝘱𝘦𝘳𝘢𝘯 𝘦𝘴 𝘲𝘶𝘦 𝘢𝘭𝘨𝘶𝘪𝘦𝘯 𝘴𝘦 𝘦𝘯𝘤𝘢𝘳𝘨𝘶𝘦 𝘥𝘦 𝘭𝘢 𝘵𝘳𝘢𝘥𝘶𝘤𝘤𝘪ó𝘯 𝘺 𝘺𝘢 𝘲𝘶𝘦 𝘦𝘭 𝘦𝘲𝘶𝘪𝘱𝘰 𝘥𝘦 𝘗𝘰𝘱𝘊𝘢𝘱 𝘦𝘴𝘵á 𝘥𝘦 𝘩𝘪𝘢𝘵𝘶𝘴...
 
-Me tomé la molestia de hacer el trabajo.
+𝘔𝘦 𝘵𝘰𝘮é 𝘭𝘢 𝘮𝘰𝘭𝘦𝘴𝘵𝘪𝘢 𝘥𝘦 𝘩𝘢𝘤𝘦𝘳 𝘦𝘭 𝘵𝘳𝘢𝘣𝘢𝘫𝘰.
 
-No está perfeccionado y pueden existir fallas, aunque igual me tomo el tiempo de jugar unas partidas para probar que líneas se deben ajustar.
+𝘕𝘰 𝘦𝘴𝘵á 𝘱𝘦𝘳𝘧𝘦𝘤𝘤𝘪𝘰𝘯𝘢𝘥𝘰 𝘺 𝘱𝘶𝘦𝘥𝘦𝘯 𝘦𝘹𝘪𝘴𝘵𝘪𝘳 𝘧𝘢𝘭𝘭𝘢𝘴, 𝘢𝘶𝘯𝘲𝘶𝘦 𝘪𝘨𝘶𝘢𝘭 𝘮𝘦 𝘵𝘰𝘮𝘰 𝘦𝘭 𝘵𝘪𝘦𝘮𝘱𝘰 𝘥𝘦 𝘫𝘶𝘨𝘢𝘳 𝘶𝘯𝘢𝘴 𝘱𝘢𝘳𝘵𝘪𝘥𝘢𝘴 𝘱𝘢𝘳𝘢 𝘱𝘳𝘰𝘣𝘢𝘳 𝘲𝘶𝘦 𝘭í𝘯𝘦𝘢𝘴 𝘴𝘦 𝘥𝘦𝘣𝘦𝘯 𝘢𝘫𝘶𝘴𝘵𝘢𝘳.
 
-Si notan algo pues me lo hacen saber, se los agradezco de corazón
+𝘚𝘪 𝘯𝘰𝘵𝘢𝘯 𝘢𝘭𝘨𝘰 𝘱𝘶𝘦𝘴 𝘮𝘦 𝘭𝘰 𝘩𝘢𝘤𝘦𝘯 𝘴𝘢𝘣𝘦𝘳, 𝘴𝘦 𝘭𝘰𝘴 𝘢𝘨𝘳𝘢𝘥𝘦𝘻𝘤𝘰 𝘥𝘦 𝘤𝘰𝘳𝘢𝘻ó𝘯
 
-Ya los gringos hicieron ese trabajo hace meses, así que es nuestro turno :)
+𝘠𝘢 𝘭𝘰𝘴 𝘨𝘳𝘪𝘯𝘨𝘰𝘴 𝘩𝘪𝘤𝘪𝘦𝘳𝘰𝘯 𝘦𝘴𝘦 𝘵𝘳𝘢𝘣𝘢𝘫𝘰 𝘩𝘢𝘤𝘦 𝘮𝘦𝘴𝘦𝘴, 𝘢𝘴í 𝘲𝘶𝘦 𝘦𝘴 𝘯𝘶𝘦𝘴𝘵𝘳𝘰 𝘵𝘶𝘳𝘯𝘰 :)
 
-Se puede jugar multijugador sin ningún problema; Sí se puede jugar con mazos hackeados...
+𝘚𝘦 𝘱𝘶𝘦𝘥𝘦 𝘫𝘶𝘨𝘢𝘳 𝘮𝘶𝘭𝘵𝘪𝘫𝘶𝘨𝘢𝘥𝘰𝘳 𝘴𝘪𝘯 𝘯𝘪𝘯𝘨ú𝘯 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘢; 𝘚í 𝘴𝘦 𝘱𝘶𝘦𝘥𝘦 𝘫𝘶𝘨𝘢𝘳 𝘤𝘰𝘯 𝘮𝘢𝘻𝘰𝘴 𝘩𝘢𝘤𝘬𝘦𝘢𝘥𝘰𝘴...
 
-Tutorial:
-1. Descarga el [𝑨𝒓𝒄𝒉𝒊𝒗𝒐](https://github.com/Tenshi1704/Plants-vs-Zombies-Heroes-Spanish-Fix/releases/tag/First_Release)
+𝘛𝘶𝘵𝘰𝘳𝘪𝘢𝘭:
+1. 𝘋𝘦𝘴𝘤𝘢𝘳𝘨𝘢 𝘦𝘭 [𝑨𝒓𝒄𝒉𝒊𝒗𝒐](𝘩𝘵𝘵𝘱𝘴://𝘨𝘪𝘵𝘩𝘶𝘣.𝘤𝘰𝘮/𝘛𝘦𝘯𝘴𝘩𝘪1704/𝘗𝘭𝘢𝘯𝘵𝘴-𝘷𝘴-𝘡𝘰𝘮𝘣𝘪𝘦𝘴-𝘏𝘦𝘳𝘰𝘦𝘴-𝘚𝘱𝘢𝘯𝘪𝘴𝘩-𝘍𝘪𝘹/𝘳𝘦𝘭𝘦𝘢𝘴𝘦𝘴/𝘵𝘢𝘨/𝘍𝘪𝘳𝘴𝘵_𝘙𝘦𝘭𝘦𝘢𝘴𝘦)
 
-2. Una vez descargado dirigete a Android > data > com.ea.gp.pvzheroes > files > cache > bundles
+2. 𝘜𝘯𝘢 𝘷𝘦𝘻 𝘥𝘦𝘴𝘤𝘢𝘳𝘨𝘢𝘥𝘰 𝘥𝘪𝘳𝘪𝘨𝘦𝘵𝘦 𝘢 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 > 𝘥𝘢𝘵𝘢 > 𝘤𝘰𝘮.𝘦𝘢.𝘨𝘱.𝘱𝘷𝘻𝘩𝘦𝘳𝘰𝘦𝘴 > 𝘧𝘪𝘭𝘦𝘴 > 𝘤𝘢𝘤𝘩𝘦 > 𝘣𝘶𝘯𝘥𝘭𝘦𝘴
 
-- *Nota: Recomiendo **[𝑺𝒉𝒊𝒛𝒖𝒌𝒖](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y recomiendo **[𝑭𝒊𝒍𝒆 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**. ¿Como usar Shizuku?: [𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍](https://www.youtube.com/watch?v=fPogbLkwodU)*
+- *𝘕𝘰𝘵𝘢: 𝘙𝘦𝘤𝘰𝘮𝘪𝘦𝘯𝘥𝘰 **[𝑺𝒉𝒊𝒛𝒖𝒌𝒖](𝘩𝘵𝘵𝘱𝘴://𝘱𝘭𝘢𝘺.𝘨𝘰𝘰𝘨𝘭𝘦.𝘤𝘰𝘮/𝘴𝘵𝘰𝘳𝘦/𝘢𝘱𝘱𝘴/𝘥𝘦𝘵𝘢𝘪𝘭𝘴?𝘪𝘥=𝘮𝘰𝘦.𝘴𝘩𝘪𝘻𝘶𝘬𝘶.𝘱𝘳𝘪𝘷𝘪𝘭𝘦𝘨𝘦𝘥.𝘢𝘱𝘪&𝘩𝘭=𝘦𝘴_𝘊𝘖)** 𝘺 𝘳𝘦𝘤𝘰𝘮𝘪𝘦𝘯𝘥𝘰 **[𝑭𝒊𝒍𝒆 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 +](𝘩𝘵𝘵𝘱𝘴://𝘱𝘭𝘢𝘺.𝘨𝘰𝘰𝘨𝘭𝘦.𝘤𝘰𝘮/𝘴𝘵𝘰𝘳𝘦/𝘢𝘱𝘱𝘴/𝘥𝘦𝘵𝘢𝘪𝘭𝘴?𝘪𝘥=𝘤𝘰𝘮.𝘢𝘭𝘱𝘩𝘢𝘪𝘯𝘷𝘦𝘯𝘵𝘰𝘳.𝘧𝘪𝘭𝘦𝘮𝘢𝘯𝘢𝘨𝘦𝘳&𝘩𝘭=𝘦𝘴_𝘊𝘖)**. ¿𝘊𝘰𝘮𝘰 𝘶𝘴𝘢𝘳 𝘚𝘩𝘪𝘻𝘶𝘬𝘶?: [𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘺𝘰𝘶𝘵𝘶𝘣𝘦.𝘤𝘰𝘮/𝘸𝘢𝘵𝘤𝘩?𝘷=𝘧𝘗𝘰𝘨𝘣𝘓𝘬𝘸𝘰𝘥𝘜)*
 
-3. Si tienes root solo es instalar **[𝑭𝒊𝒍𝒆 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**
+3. 𝘚𝘪 𝘵𝘪𝘦𝘯𝘦𝘴 𝘳𝘰𝘰𝘵 𝘴𝘰𝘭𝘰 𝘦𝘴 𝘪𝘯𝘴𝘵𝘢𝘭𝘢𝘳 **[𝑭𝒊𝒍𝒆 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 +](𝘩𝘵𝘵𝘱𝘴://𝘱𝘭𝘢𝘺.𝘨𝘰𝘰𝘨𝘭𝘦.𝘤𝘰𝘮/𝘴𝘵𝘰𝘳𝘦/𝘢𝘱𝘱𝘴/𝘥𝘦𝘵𝘢𝘪𝘭𝘴?𝘪𝘥=𝘤𝘰𝘮.𝘢𝘭𝘱𝘩𝘢𝘪𝘯𝘷𝘦𝘯𝘵𝘰𝘳.𝘧𝘪𝘭𝘦𝘮𝘢𝘯𝘢𝘨𝘦𝘳&𝘩𝘭=𝘦𝘴_𝘊𝘖)**
 
-4. Reemplaza el archivo original con el modificado
+4. 𝘙𝘦𝘦𝘮𝘱𝘭𝘢𝘻𝘢 𝘦𝘭 𝘢𝘳𝘤𝘩𝘪𝘷𝘰 𝘰𝘳𝘪𝘨𝘪𝘯𝘢𝘭 𝘤𝘰𝘯 𝘦𝘭 𝘮𝘰𝘥𝘪𝘧𝘪𝘤𝘢𝘥𝘰
 
-- *Nota: Considera que cada vez que actualizan el juego con contenido nuevo el archivo se actualizará, si vez que no coincide dicho archivo significa que no lo he actualizado, así que espera a que lanze el archivo ya actualizado.*
+- *𝘕𝘰𝘵𝘢: 𝘊𝘰𝘯𝘴𝘪𝘥𝘦𝘳𝘢 𝘲𝘶𝘦 𝘤𝘢𝘥𝘢 𝘷𝘦𝘻 𝘲𝘶𝘦 𝘢𝘤𝘵𝘶𝘢𝘭𝘪𝘻𝘢𝘯 𝘦𝘭 𝘫𝘶𝘦𝘨𝘰 𝘤𝘰𝘯 𝘤𝘰𝘯𝘵𝘦𝘯𝘪𝘥𝘰 𝘯𝘶𝘦𝘷𝘰 𝘦𝘭 𝘢𝘳𝘤𝘩𝘪𝘷𝘰 𝘴𝘦 𝘢𝘤𝘵𝘶𝘢𝘭𝘪𝘻𝘢𝘳á, 𝘴𝘪 𝘷𝘦𝘻 𝘲𝘶𝘦 𝘯𝘰 𝘤𝘰𝘪𝘯𝘤𝘪𝘥𝘦 𝘥𝘪𝘤𝘩𝘰 𝘢𝘳𝘤𝘩𝘪𝘷𝘰 𝘴𝘪𝘨𝘯𝘪𝘧𝘪𝘤𝘢 𝘲𝘶𝘦 𝘯𝘰 𝘭𝘰 𝘩𝘦 𝘢𝘤𝘵𝘶𝘢𝘭𝘪𝘻𝘢𝘥𝘰, 𝘢𝘴í 𝘲𝘶𝘦 𝘦𝘴𝘱𝘦𝘳𝘢 𝘢 𝘲𝘶𝘦 𝘭𝘢𝘯𝘻𝘦 𝘦𝘭 𝘢𝘳𝘤𝘩𝘪𝘷𝘰 𝘺𝘢 𝘢𝘤𝘵𝘶𝘢𝘭𝘪𝘻𝘢𝘥𝘰.*
 
-5. Disfurta del juego :)
+5. 𝘋𝘪𝘴𝘧𝘶𝘳𝘵𝘢 𝘥𝘦𝘭 𝘫𝘶𝘦𝘨𝘰 :)
