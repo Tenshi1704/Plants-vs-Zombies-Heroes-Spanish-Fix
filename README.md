@@ -25,12 +25,12 @@ Tutorial:
 
 2. Una vez descargado dirigete a Android > data > com.ea.gp.pvzheroes > files > cache > bundles
 
-- *Nota: Recomiendo **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y recomiendo **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**. ¿Como usar Shizuku?: [Tutorial](https://www.youtube.com/watch?v=fPogbLkwodU)*
+- *Nota: Recomiendo **[𝑺𝒉𝒊𝒛𝒖𝒌𝒖](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=es_CO)** y recomiendo **[𝑭𝒊𝒍𝒆 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**. ¿Como usar Shizuku?: [Tutorial](https://www.youtube.com/watch?v=fPogbLkwodU)*
 
-3. Si tienes root solo es instalar **[File Manager +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**
+3. Si tienes root solo es instalar **[𝑭𝒊𝒍𝒆 𝑴𝒂𝒏𝒂𝒈𝒆𝒓 +](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=es_CO)**
 
 4. Reemplaza el archivo original con el modificado
 
-- *Nota: Considera que cuando actualizan el juego con contenido nuevo el archivo se actualizará, si vez que no coincide significa que no he actualizado el archivo, así que espera a que lanze el archivo ya actualizado.*
+- *Nota: Considera que cada vez que actualizan el juego con contenido nuevo el archivo se actualizará, si vez que no coincide dicho archivo significa que no lo he actualizado, así que espera a que lanze el archivo ya actualizado.*
 
 5. Disfurta del juego :)
