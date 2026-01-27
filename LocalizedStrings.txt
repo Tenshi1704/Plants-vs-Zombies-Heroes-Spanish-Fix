@@ -54,7 +54,7 @@
 ,
 ,
 ,
-0237d618-c027-4d95-af14-dca7beced0d2_longDesc,"Crea una Octomascota [3a]/[2h] con [aquatic], [frenzy]."
+0237d618-c027-4d95-af14-dca7beced0d2_longDesc,"Crea una [linkoctopet]."
 ,
 ,
 ,
@@ -62,7 +62,7 @@
 ,
 ,
 ,
-0237d618-c027-4d95-af14-dca7beced0d2_shortDesc,"Crea una Octomascota [3a]/[2h] con [aquatic], [frenzy]."
+0237d618-c027-4d95-af14-dca7beced0d2_shortDesc,"Crea una [linkoctopet]."
 ,
 ,
 ,
@@ -538,7 +538,7 @@
 ,
 ,
 ,
-13d7b729-74ad-4606-95de-f8b2e68011f1_longDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta [1b] más.
+13d7b729-74ad-4606-95de-f8b2e68011f1_longDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi que no sea Zombistein Brujo en un Zombi aleatorio que cuesta [1b] más.
 ,
 ,
 ,
@@ -546,7 +546,7 @@
 ,
 ,
 ,
-13d7b729-74ad-4606-95de-f8b2e68011f1_shortDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi en un Zombi aleatorio que cuesta [1b] más.
+13d7b729-74ad-4606-95de-f8b2e68011f1_shortDesc,Todos los Zombisteins tienen [truestrike]. Al entrar en juego: Transforma otro Zombi que no sea Zombistein Brujo en un Zombi aleatorio que cuesta [1b] más.
 ,
 ,
 ,
@@ -1094,7 +1094,7 @@
 ,
 ,
 ,
-2aa11f52-3fac-4ec5-8719-8adde30ad7f5_longDesc,"[splashdamage=4]. Al entrar en juego: [freeze] un Zombi. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
+2aa11f52-3fac-4ec5-8719-8adde30ad7f5_longDesc,"[splashdamage=4]. Al entrar en juego: [freeze] un Zombi aleatorio. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
 ,
 ,
 ,
@@ -1102,7 +1102,7 @@
 ,
 ,
 ,
-2aa11f52-3fac-4ec5-8719-8adde30ad7f5_shortDesc,"Daño de área 4. Al entrar en juego: [freeze] un Zombi. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
+2aa11f52-3fac-4ec5-8719-8adde30ad7f5_shortDesc,"[splashdamage=4]. Al entrar en juego: [freeze] un Zombi aleatorio. Cuando inflige daño a un Zombi, [freeze] a ese Zombi."
 ,
 ,
 ,
@@ -1294,7 +1294,11 @@
 ,
 ,
 ,
-317bf3e1-1686-4923-81a9-9d07934a0ae6_longDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy]. Al destruirse: hace [bounce] a Octozombi."
+Octo Zombie_heraldFighter,Conjurada por Pulpozombi
+,
+,
+,
+317bf3e1-1686-4923-81a9-9d07934a0ae6_longDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una [linkoctopet]. Al destruirse: [conjure] un Pulpozombi."
 ,
 ,
 ,
@@ -1302,7 +1306,7 @@
 ,
 ,
 ,
-317bf3e1-1686-4923-81a9-9d07934a0ae6_shortDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una Octomascota [3a]/[2h] con [aquatic] y [frenzy]. Al destruirse: hace [bounce] a Octozombi."
+317bf3e1-1686-4923-81a9-9d07934a0ae6_shortDesc,"[aquatic], [frenzy]. Al entrar en juego: Crea una [linkoctopet]. Al destruirse: [conjure] un Pulpozombi."
 ,
 ,
 ,
@@ -1550,7 +1554,7 @@
 ,
 ,
 ,
-3e290224-8f40-4cd9-8c02-49eb16c574ab_longDesc,"Una Planta obtiene [-1a]/[-1h]. Si esto destruye esa Planta, [conjure] una carta Gourmet."
+3e290224-8f40-4cd9-8c02-49eb16c574ab_longDesc,"Una Planta obtiene [-1a]/[-1h]. Si esto destruye esa Planta, [conjure] una carta Gourmet de coste [3b] o menos."
 ,
 ,
 ,
@@ -1558,7 +1562,7 @@
 ,
 ,
 ,
-3e290224-8f40-4cd9-8c02-49eb16c574ab_shortDesc,"Una Planta obtiene [-1a]/[-1h]. Si esto destruye esa Planta, [conjure] una carta Gourmet."
+3e290224-8f40-4cd9-8c02-49eb16c574ab_shortDesc,"Una Planta obtiene [-1a]/[-1h]. Si esto destruye esa Planta, [conjure] una carta Gourmet de coste [3b] o menos."
 ,
 ,
 ,
@@ -1597,7 +1601,7 @@
 3f69e6ab-fc48-46a6-bc29-a66324bcd4e3_longDesc,<b>Al entrar en juego:</b> tu indicador de Bloqueo aumenta una Doble carga.
 ,
 ,
-,
+,f
 3f69e6ab-fc48-46a6-bc29-a66324bcd4e3_name,Guardialabaza
 ,
 ,
@@ -1678,7 +1682,7 @@
 ,
 ,
 ,
-4153a62b-b665-41cc-9173-1df58d5ada8b_longDesc,Destruye todas las Plantas y Zombis con [4a] o más. \n Roba una carta de Seta.
+4153a62b-b665-41cc-9173-1df58d5ada8b_longDesc,Destruye todas las Plantas y Zombis con [4a] o más. \n [conjure] una carta de Seta de coste [4s] o menos.
 ,
 ,
 ,
@@ -1686,7 +1690,7 @@
 ,
 ,
 ,
-4153a62b-b665-41cc-9173-1df58d5ada8b_shortDesc,Destruye todas las Plantas y Zombis con [4a] o más. Roba una carta de Seta.
+4153a62b-b665-41cc-9173-1df58d5ada8b_shortDesc,Destruye todas las Plantas y Zombis con [4a] o más. [conjure] una carta de Seta de coste [4s] o menos.
 ,
 ,
 ,
@@ -2978,7 +2982,7 @@
 ,
 ,
 ,
-7a20f621-d60a-4bb6-9989-9e800df880d2_longDesc,Inflige 2 de daño. Obtienes +[1s] por el resto de la partida.
+7a20f621-d60a-4bb6-9989-9e800df880d2_longDesc,Inflige 2 de daño. A partir del siguiente turno: Obtienes [+1s] por el resto de la partida.
 ,
 ,
 ,
@@ -2986,7 +2990,7 @@
 ,
 ,
 ,
-7a20f621-d60a-4bb6-9989-9e800df880d2_shortDesc,Inflige 2 de daño. Obtienes +[1s] por el resto de la partida.
+7a20f621-d60a-4bb6-9989-9e800df880d2_shortDesc,Inflige 2 de daño. A partir del siguiente turno: Obtienes [+1s] por el resto de la partida.
 ,
 ,
 ,
@@ -3018,7 +3022,7 @@
 ,
 ,
 ,
-7dd581a3-cd7e-4266-aa3f-da38ab70be58_shortDesc,[aquatic]
+7dd581a3-cd7e-4266-aa3f-da38ab70be58_shortDesc,[aquatic],[frenzy]
 ,
 ,
 ,
@@ -3214,7 +3218,7 @@
 ,
 ,
 ,
-8ab124be-1d2f-4de4-b634-5ebb72be63a6_longDesc,Obtiene [+1a]/[+1h] cuando juegas un Frijol.\n<b>Al entrar en juego:</b> Gana dos Frijolitos [1a]/[1h].
+8ab124be-1d2f-4de4-b634-5ebb72be63a6_longDesc,[Teamup] Obtiene [+1a]/[+1h] cuando juegas un Frijol.\n<b>Al entrar en juego:</b> Gana dos Frijolitos [1a]/[1h].
 ,
 ,
 ,
@@ -3222,7 +3226,7 @@
 ,
 ,
 ,
-8ab124be-1d2f-4de4-b634-5ebb72be63a6_shortDesc,Obtiene [+1a]/[+1h] cuando juegas un Frijol. Al entrar en juego: gana dos Frijolitos.
+8ab124be-1d2f-4de4-b634-5ebb72be63a6_shortDesc,[Teamup] Obtiene [+1a]/[+1h] cuando juegas un Frijol. Al entrar en juego: gana dos Frijolitos.
 ,
 ,
 ,
@@ -3506,7 +3510,7 @@
 ,
 ,
 ,
-993fec89-2d80-47be-a9e4-ac5b8856a0fa_longDesc,"[aquatic], [hunt]. Cuando un Zombi entra a cualquier línea, ese Zombi obtiene [+1a]/[+1h]."
+993fec89-2d80-47be-a9e4-ac5b8856a0fa_longDesc,"[aquatic], [hunt]. Cuando este Zombi entra a cualquier línea, obtiene [+1a]/[+1h]. Cuando otro Zombi entra a cualquier linea ambos Zombis obtienen [+1a]/[+1h]."
 ,
 ,
 ,
@@ -3514,7 +3518,7 @@
 ,
 ,
 ,
-993fec89-2d80-47be-a9e4-ac5b8856a0fa_shortDesc,"[aquatic], [hunt]. Cuando un Zombi entra a cualquier línea, ese Zombi obtiene [+1a]/[+1h]."
+993fec89-2d80-47be-a9e4-ac5b8856a0fa_shortDesc,"[aquatic], [hunt]. Cuando este Zombi entra a cualquier línea, obtiene [+1a]/[+1h]. Cuando otro Zombi entra a cualquier linea ambos Zombis obtienen [+1a]/[+1h]."
 ,
 ,
 ,
@@ -3846,6 +3850,10 @@ ability_desc_plants_gravestone,Se esconde en una Lápida hasta que llega el mome
 ,
 ,
 ,
+ability_desc_plants_linkgrizzlypear,"[5a]/[4h], [aquatic]"
+,
+,
+,
 ability_desc_plants_halfrounddown,Redondeando hacia abajo
 ,
 ,
@@ -4118,6 +4126,10 @@ ability_desc_zombies_linkmysteryegg,"[2h], <b>al comienzo de los trucos:</b> se 
 ,
 ,
 ,
+ability_desc_zombies_linkoctopet,"[3a], [2h], [aquatic], [frenzy]."
+,
+,
+,
 ability_desc_zombies_linkpotofgold,"[1b], roba tres cartas."
 ,
 ,
@@ -4142,7 +4154,7 @@ ability_desc_zombies_linkvengefulcyborg,"[5b], [5a]/[5h], [hunt]"
 ,
 ,
 ,
-ability_desc_zombies_linkzombats,"[2a]/[1h], [aquatic], cuando inflige daño a una Planta, roba una carta."
+ability_desc_zombies_linkzombats,"[2a]/[2h], [aquatic], cuando inflige daño a una Planta, roba una carta."
 ,
 ,
 ,
@@ -4334,6 +4346,10 @@ ability_linkgraperesponsibility,Uva responsable
 ,
 ,
 ,
+ability_linkgrizzlypear,Pera grizzly
+,
+,
+,
 ability_linkhalfbananas,Semiplátanos
 ,
 ,
@@ -4363,6 +4379,10 @@ ability_linkmagicbeanstalks,Plantas mágicas de frijoles
 ,
 ,
 ability_linkmysteryegg,Huevo misterioso
+,
+,
+,
+ability_linkoctopet,Octomascota
 ,
 ,
 ,
@@ -4990,7 +5010,7 @@ Artillery World_flavorText,"¿Alunizaron los zombis? Muchos creen que no es nada
 ,
 ,
 ,
-Artillery World_longDesc,Los Zombis en su línea obtienen Exceso 3.
+Artillery World_longDesc,Los Zombis en su línea obtienen [overshoot=3].
 ,
 ,
 ,
@@ -4998,7 +5018,7 @@ Artillery World_name,Base lunar Z
 ,
 ,
 ,
-Artillery World_shortDesc,Los Zombis en su línea obtienen Exceso 3.
+Artillery World_shortDesc,Los Zombis en su línea obtienen [overshoot=3].
 ,
 ,
 ,
@@ -8066,7 +8086,7 @@ db04b985-de6c-49cd-842d-0fadf7f3a07b_flavorText,Necesitarás una toalla.
 ,
 ,
 ,
-db04b985-de6c-49cd-842d-0fadf7f3a07b_longDesc,"Un Zombi que no sea [aquatic] obtiene [-2a]/[-2h]. Si creaste al menos [6s] este turno, obtiene [-3a]/[-3h] en su lugar."
+db04b985-de6c-49cd-842d-0fadf7f3a07b_longDesc,"Un Zombi obtiene [-2a]/[-2h]. Si creaste al menos [6s] este turno, obtiene [-3a]/[-3h] en su lugar."
 ,
 ,
 ,
@@ -8074,7 +8094,7 @@ db04b985-de6c-49cd-842d-0fadf7f3a07b_name,Globos de agua
 ,
 ,
 ,
-db04b985-de6c-49cd-842d-0fadf7f3a07b_shortDesc,"Un Zombi que no sea [aquatic] obtiene [-2a]/[-2h]. Si creaste al menos [6s] este turno, obtiene [-3a]/[-3h] en su lugar."
+db04b985-de6c-49cd-842d-0fadf7f3a07b_shortDesc,"Un Zombi obtiene [-2a]/[-2h]. Si creaste al menos [6s] este turno, obtiene [-3a]/[-3h] en su lugar."
 ,
 ,
 ,
@@ -9647,11 +9667,11 @@ Dr Spacetime_flavorText,Insiste en que es mucho más que un destornillador. Much
 ,
 ,
 ,
-Dr Spacetime_heraldFighter,Conjurada por Dr. Espacio-tiempo
+Dr Spacetime_heraldFighter,Conjurada por Dr. Espacio-tiempo.
 ,
 ,
 ,
-Dr Spacetime_heraldTrick,Conjurada por Dr. Espacio-tiempo
+Dr Spacetime_heraldTrick,Conjurada por Dr. Espacio-tiempo.
 ,
 ,
 ,
@@ -11419,7 +11439,7 @@ Genetic Amplification_flavorText,"Las modificaciones son controvertidas, sí. Pe
 ,
 ,
 ,
-Genetic Amplification_heraldFighter,"Amplificación genética. [+1a]/[+1h], [aquatic], y [teamup]"
+Genetic Amplification_heraldFighter,"Amplificación genética. [+2a]/[+1h], [aquatic], y [teamup]"
 ,
 ,
 ,
@@ -11719,7 +11739,11 @@ Green Crosshairs_flavorText,Cada Planta está cultivada con el poder de la radia
 ,
 ,
 ,
-Green Crosshairs_heraldTrick,Conjurada por Polinización cruzada
+Green Crosshairs_heraldTrick,Conjurada por Polinización cruzada. Cuesta [1s] menos
+,
+,
+,
+Green Crosshairs_heraldFighter,Conjurada por Polinización cruzada. Cuesta [1s] menos
 ,
 ,
 ,
@@ -14887,7 +14911,7 @@ imitater_heraldFighter,Transformación de Imitadora
 ,
 ,
 ,
-imitater_longDesc,"Cuando juegas una Planta, se transforma en una copia de esa Planta."
+imitater_longDesc,"Cuando juegas una Planta, se transforma en una copia de esa Planta. Exceptuando fichas "
 ,
 ,
 ,
@@ -14895,7 +14919,7 @@ imitater_name,Imitadora
 ,
 ,
 ,
-imitater_shortDesc,"Cuando juegas una Planta, se transforma en una copia de esa Planta."
+imitater_shortDesc,"Cuando juegas una Planta, se transforma en una copia de esa Planta. Exceptuando fichas"
 ,
 ,
 ,
@@ -16085,7 +16109,7 @@ Meow_Meow_Meow_shortDesc,Crea [linkzombats].
 ,
 ,
 ,
-Meow_Meow_Meow_Targeting,Crea un Murciélago zombi [2a]/[1h]. ([aquatic]. Cuando inflige daño a una Planta: roba una carta).
+Meow_Meow_Meow_Targeting,Crea un Murciélago zombi [2a]/[2h]. ([aquatic]. Cuando inflige daño a una Planta: roba una carta).
 ,
 ,
 ,
@@ -29213,7 +29237,7 @@ Pear Cub_heraldFighter,Creada por Pera cachorro
 ,
 ,
 ,
-Pear Cub_longDesc,[aquatic]\n<b>Al ser destruido:</b> crea una Pera grizzly [5a]/[4h] con [aquatic] en su línea y todas las Plantas Fruta obtienen [1a]/[1h].
+Pear Cub_longDesc,[aquatic]\n<b>Al ser destruido:</b> crea una [linkgrizzlypear] y todas las Plantas Fruta obtienen [+1a]/[+1h].
 ,
 ,
 ,
@@ -29221,7 +29245,7 @@ Pear Cub_name,Pera cachorro
 ,
 ,
 ,
-Pear Cub_shortDesc,[aquatic]. Al ser destruido: crea una Pera grizzly [5a]/[4h] con [aquatic] en su línea y todas las Plantas Fruta obtienen [1a]/[1h].
+Pear Cub_shortDesc,[aquatic]. Al ser destruido: crea una [linkgrizzlypear] y todas las Plantas Fruta obtienen [+1a]/[+1h].
 ,
 ,
 ,
@@ -33793,7 +33817,7 @@ Red Stinger_flavorText,"""Hago estiramientos cada mañana"", dice. ""Son importa
 ,
 ,
 ,
-Red Stinger_longDesc,[teamup]\n <b>Cuando entra en juego detrás de una Planta:</b> se convierte en un [7a]/[2h].
+Red Stinger_longDesc,[teamup]\n <b>Cuando entra en juego detrás de una Planta:</b> se convierte en un [7a]/[3h].
 ,
 ,
 ,
@@ -33801,7 +33825,7 @@ Red Stinger_name,Aguijón rojo
 ,
 ,
 ,
-Red Stinger_shortDesc,[teamup]. Cuando entra en juego detrás de una Planta: se convierte en un [7a]/[2h].
+Red Stinger_shortDesc,[teamup]. Cuando entra en juego detrás de una Planta: se convierte en un [7a]/[3h].
 ,
 ,
 ,
@@ -37617,7 +37641,7 @@ Starch Lord_heraldTrick,Conjurada por Señor del almidón
 ,
 ,
 ,
-Starch Lord_longDesc,"Cuando juegas una Raíz, esa Raíz obtiene [+1a]/[+1h].\n<b>Al comienzo del turno:</b> [conjure] una Raíz."
+Starch Lord_longDesc,"Cuando juegas una Raíz, Ambas raíces obtienen [+1a]/[+1h].\n<b>Al comienzo del turno:</b> [conjure] una Raíz."
 ,
 ,
 ,
@@ -37625,7 +37649,7 @@ Starch Lord_name,Señor del almidón
 ,
 ,
 ,
-Starch Lord_shortDesc,"Cuando juegas una Raíz, esa Raíz obtiene [+1a]/[+1h]. Al comienzo del turno: [conjure] una Raíz."
+Starch Lord_shortDesc,"Cuando juegas una Raíz, Ambas raíces obtienen [+1a]/[+1h]. Al comienzo del turno: [conjure] una Raíz."
 ,
 ,
 ,
@@ -41769,11 +41793,11 @@ Trans-fig-uration_flavorText,"""El principio de incertidumbre de Heisenberg dice
 ,
 ,
 ,
-Trans-fig-uration_heraldFighter,Transformada por Transfiguración
+Trans-fig-uration_heraldFighter,Transformación de Transfiguración
 ,
 ,
 ,
-Trans-fig-uration_longDesc,A final del turno: se transforma en una Planta aleatoria de coste [1s] más. Mantiene su habilidad.
+Trans-fig-uration_longDesc,A final del turno: se transforma en una Planta aleatoria de coste [1s] más. Dicha planta mantiene esa habilidad.
 ,
 ,
 ,
@@ -41781,7 +41805,7 @@ Trans-fig-uration_name,Transfiguración
 ,
 ,
 ,
-Trans-fig-uration_shortDesc,A final del turno: se transforma en una Planta aleatoria de coste [1s] más. Mantiene su habilidad.
+Trans-fig-uration_shortDesc,A final del turno: se transforma en una Planta aleatoria de coste [1s] más. Dicha planta mantiene esa habilidad.
 ,
 ,
 ,
@@ -42346,6 +42370,14 @@ Wormhole Gatekeeper_flavorText,"""Quédate aquí y protege este portón con tu n
 ,
 ,
 Wormhole Gatekeeper_longDesc,Las cartas que cualquiera de los jugadores conjure cuestan [1b]/[1s] menos. Al comienzo del turno: Cada jugador [conjure] una carta.
+,
+,
+,
+Wormhole Gatekeeper_heraldFighter,Conjurada por Guardiana del agujero de gusano
+,
+,
+,
+Wormhole Gatekeeper_heraldTrick,Conjurada por Guardiana del agujero de gusano
 ,
 ,
 ,
